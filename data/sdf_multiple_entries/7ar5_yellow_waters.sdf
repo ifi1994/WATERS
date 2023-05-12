@@ -1,0 +1,5969 @@
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -26.7440   -8.9425  -27.2710 O   0  0  0  0  0  0
+  -26.1143   -9.4800  -26.7905 H   0  0  0  0  0  0
+  -26.2654   -8.6467  -28.0454 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+843
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.6
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+6
+
+> <szmap_neut_diff_free_energy>
+-8.809
+
+> <szmap_vdw>
+9.403
+
+> <szmap_order>
+0.359
+
+> <szmap_probability>
+0.198
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -26.7440   -8.9425  -27.2710 O   0  0  0  0  0  0
+  -26.6518   -8.0728  -27.6602 H   0  0  0  0  0  0
+  -25.9696   -9.4211  -27.5668 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+844
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.7
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+7
+
+> <szmap_neut_diff_free_energy>
+-8.809
+
+> <szmap_vdw>
+9.403
+
+> <szmap_order>
+0.359
+
+> <szmap_probability>
+0.122
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -13.2440   -7.9425  -24.7710 O   0  0  0  0  0  0
+  -13.6332   -7.8503  -25.6407 H   0  0  0  0  0  0
+  -13.5398   -7.1681  -24.2924 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+845
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.8
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+8
+
+> <szmap_neut_diff_free_energy>
+-7.247
+
+> <szmap_vdw>
+7.005
+
+> <szmap_order>
+0.996
+
+> <szmap_probability>
+0.959
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -12.7440   -6.9425  -24.7710 O   0  0  0  0  0  0
+  -13.3737   -6.4050  -24.2905 H   0  0  0  0  0  0
+  -13.2226   -7.2383  -25.5454 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+846
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.9
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+9
+
+> <szmap_neut_diff_free_energy>
+-7.192
+
+> <szmap_vdw>
+9.654
+
+> <szmap_order>
+1
+
+> <szmap_probability>
+0.988
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -12.7440   -4.4425  -18.2710 O   0  0  0  0  0  0
+  -12.3548   -4.3503  -17.4013 H   0  0  0  0  0  0
+  -12.4482   -3.6681  -18.7496 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+847
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.10
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+10
+
+> <szmap_neut_diff_free_energy>
+-6.56
+
+> <szmap_vdw>
+7.898
+
+> <szmap_order>
+0.385
+
+> <szmap_probability>
+0.315
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -12.7440   -4.4425  -18.2710 O   0  0  0  0  0  0
+  -12.1143   -3.9050  -18.7515 H   0  0  0  0  0  0
+  -12.2654   -4.7383  -17.4966 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+848
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.11
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+11
+
+> <szmap_neut_diff_free_energy>
+-6.56
+
+> <szmap_vdw>
+7.898
+
+> <szmap_order>
+0.385
+
+> <szmap_probability>
+0.137
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -12.7440   -4.4425  -18.2710 O   0  0  0  0  0  0
+  -12.6518   -3.5728  -17.8818 H   0  0  0  0  0  0
+  -11.9696   -4.9211  -17.9752 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+849
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.12
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+12
+
+> <szmap_neut_diff_free_energy>
+-6.56
+
+> <szmap_vdw>
+7.898
+
+> <szmap_order>
+0.385
+
+> <szmap_probability>
+0.104
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -22.2440  -10.4425  -20.7710 O   0  0  0  0  0  0
+  -22.7815   -9.9620  -20.1413 H   0  0  0  0  0  0
+  -21.9482  -11.2169  -20.2924 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+850
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.13
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+13
+
+> <szmap_neut_diff_free_energy>
+-5.617
+
+> <szmap_vdw>
+6.661
+
+> <szmap_order>
+0.355
+
+> <szmap_probability>
+0.19
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -22.2440  -10.4425  -20.7710 O   0  0  0  0  0  0
+  -22.3362  -11.3122  -20.3818 H   0  0  0  0  0  0
+  -23.0184   -9.9639  -20.4752 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+851
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.14
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+14
+
+> <szmap_neut_diff_free_energy>
+-5.617
+
+> <szmap_vdw>
+6.661
+
+> <szmap_order>
+0.355
+
+> <szmap_probability>
+0.158
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -22.2440  -10.4425  -20.7710 O   0  0  0  0  0  0
+  -22.0040  -10.4425  -19.8444 H   0  0  0  0  0  0
+  -23.2012  -10.4425  -20.7710 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+852
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.15
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+15
+
+> <szmap_neut_diff_free_energy>
+-5.617
+
+> <szmap_vdw>
+6.661
+
+> <szmap_order>
+0.355
+
+> <szmap_probability>
+0.136
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -22.2440  -10.4425  -20.7710 O   0  0  0  0  0  0
+  -23.1137  -10.8317  -20.6788 H   0  0  0  0  0  0
+  -21.7654  -10.7383  -19.9966 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+853
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.16
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+16
+
+> <szmap_neut_diff_free_energy>
+-5.617
+
+> <szmap_vdw>
+6.661
+
+> <szmap_order>
+0.355
+
+> <szmap_probability>
+0.132
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -21.7440   -4.4425  -23.2710 O   0  0  0  0  0  0
+  -21.5040   -4.4425  -24.1976 H   0  0  0  0  0  0
+  -22.7012   -4.4425  -23.2710 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+854
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.17
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+17
+
+> <szmap_neut_diff_free_energy>
+-5.392
+
+> <szmap_vdw>
+6.983
+
+> <szmap_order>
+0.453
+
+> <szmap_probability>
+0.326
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -21.7440   -4.4425  -23.2710 O   0  0  0  0  0  0
+  -22.6137   -4.8317  -23.3632 H   0  0  0  0  0  0
+  -21.2654   -4.7383  -24.0454 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+855
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.18
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+18
+
+> <szmap_neut_diff_free_energy>
+-5.392
+
+> <szmap_vdw>
+6.983
+
+> <szmap_order>
+0.453
+
+> <szmap_probability>
+0.309
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -22.2440   -2.4425  -28.2710 O   0  0  0  0  0  0
+  -21.3174   -2.6825  -28.2710 H   0  0  0  0  0  0
+  -22.2440   -1.4853  -28.2710 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+856
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.19
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+19
+
+> <szmap_neut_diff_free_energy>
+-5.365
+
+> <szmap_vdw>
+6.174
+
+> <szmap_order>
+0.976
+
+> <szmap_probability>
+0.486
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -22.2440   -2.4425  -28.2710 O   0  0  0  0  0  0
+  -22.7245   -1.8128  -28.8085 H   0  0  0  0  0  0
+  -21.4696   -1.9639  -27.9752 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+857
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.20
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+20
+
+> <szmap_neut_diff_free_energy>
+-5.365
+
+> <szmap_vdw>
+6.174
+
+> <szmap_order>
+0.976
+
+> <szmap_probability>
+0.157
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -16.7440  -10.4425  -27.2710 O   0  0  0  0  0  0
+  -17.2245   -9.8128  -26.7335 H   0  0  0  0  0  0
+  -15.9696   -9.9639  -27.5668 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+858
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.21
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+21
+
+> <szmap_neut_diff_free_energy>
+-5.271
+
+> <szmap_vdw>
+6.375
+
+> <szmap_order>
+0.624
+
+> <szmap_probability>
+0.402
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -16.7440  -10.4425  -27.2710 O   0  0  0  0  0  0
+  -16.3548  -10.3503  -26.4013 H   0  0  0  0  0  0
+  -16.4482   -9.6681  -27.7496 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+859
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.22
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+22
+
+> <szmap_neut_diff_free_energy>
+-5.271
+
+> <szmap_vdw>
+6.375
+
+> <szmap_order>
+0.624
+
+> <szmap_probability>
+0.181
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -15.7440  -10.9425  -27.7710 O   0  0  0  0  0  0
+  -14.8174  -11.1825  -27.7710 H   0  0  0  0  0  0
+  -15.7440   -9.9853  -27.7710 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+860
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.23
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+23
+
+> <szmap_neut_diff_free_energy>
+-5.265
+
+> <szmap_vdw>
+4.414
+
+> <szmap_order>
+0.729
+
+> <szmap_probability>
+0.409
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -15.7440  -10.9425  -27.7710 O   0  0  0  0  0  0
+  -15.7440  -10.0159  -27.5310 H   0  0  0  0  0  0
+  -15.7440  -10.9425  -28.7282 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+861
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.24
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+24
+
+> <szmap_neut_diff_free_energy>
+-5.265
+
+> <szmap_vdw>
+4.414
+
+> <szmap_order>
+0.729
+
+> <szmap_probability>
+0.217
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -25.2440    2.5575  -30.2710 O   0  0  0  0  0  0
+  -25.7815    2.0770  -30.9007 H   0  0  0  0  0  0
+  -24.9482    3.3319  -30.7496 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+862
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.25
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+25
+
+> <szmap_neut_diff_free_energy>
+-5.224
+
+> <szmap_vdw>
+10.278
+
+> <szmap_order>
+0.676
+
+> <szmap_probability>
+0.92
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -17.2440   -9.9425  -28.2710 O   0  0  0  0  0  0
+  -17.7245   -9.3128  -28.8085 H   0  0  0  0  0  0
+  -16.4696   -9.4639  -27.9752 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+863
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.26
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+26
+
+> <szmap_neut_diff_free_energy>
+-5.203
+
+> <szmap_vdw>
+5.577
+
+> <szmap_order>
+0.734
+
+> <szmap_probability>
+0.306
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -17.2440   -9.9425  -28.2710 O   0  0  0  0  0  0
+  -16.6143   -9.4050  -27.7905 H   0  0  0  0  0  0
+  -16.7654  -10.2383  -29.0454 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+864
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.27
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+27
+
+> <szmap_neut_diff_free_energy>
+-5.203
+
+> <szmap_vdw>
+5.577
+
+> <szmap_order>
+0.734
+
+> <szmap_probability>
+0.266
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -25.7440  -10.4425  -29.7710 O   0  0  0  0  0  0
+  -26.6137  -10.8317  -29.6788 H   0  0  0  0  0  0
+  -25.2654  -10.7383  -28.9966 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+865
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.28
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+28
+
+> <szmap_neut_diff_free_energy>
+-5.136
+
+> <szmap_vdw>
+5.445
+
+> <szmap_order>
+0.318
+
+> <szmap_probability>
+0.17
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -25.7440  -10.4425  -29.7710 O   0  0  0  0  0  0
+  -25.2635  -11.0722  -29.2335 H   0  0  0  0  0  0
+  -26.5184  -10.9211  -30.0668 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+866
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.29
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+29
+
+> <szmap_neut_diff_free_energy>
+-5.136
+
+> <szmap_vdw>
+5.445
+
+> <szmap_order>
+0.318
+
+> <szmap_probability>
+0.125
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -25.7440  -10.4425  -29.7710 O   0  0  0  0  0  0
+  -26.2815   -9.9620  -29.1413 H   0  0  0  0  0  0
+  -25.4482  -11.2169  -29.2924 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+867
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.30
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+30
+
+> <szmap_neut_diff_free_energy>
+-5.136
+
+> <szmap_vdw>
+5.445
+
+> <szmap_order>
+0.318
+
+> <szmap_probability>
+0.115
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -25.7440  -10.4425  -29.7710 O   0  0  0  0  0  0
+  -25.7440  -11.3691  -30.0110 H   0  0  0  0  0  0
+  -25.7440  -10.4425  -28.8138 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+868
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.31
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+31
+
+> <szmap_neut_diff_free_energy>
+-5.136
+
+> <szmap_vdw>
+5.445
+
+> <szmap_order>
+0.318
+
+> <szmap_probability>
+0.11
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -17.7440   -8.9425  -27.7710 O   0  0  0  0  0  0
+  -16.8174   -8.7025  -27.7710 H   0  0  0  0  0  0
+  -17.7440   -9.8997  -27.7710 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+869
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.32
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+32
+
+> <szmap_neut_diff_free_energy>
+-5.105
+
+> <szmap_vdw>
+6.359
+
+> <szmap_order>
+0.726
+
+> <szmap_probability>
+0.235
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -17.7440   -8.9425  -27.7710 O   0  0  0  0  0  0
+  -17.9840   -8.9425  -26.8444 H   0  0  0  0  0  0
+  -16.7868   -8.9425  -27.7710 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+870
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.33
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+33
+
+> <szmap_neut_diff_free_energy>
+-5.105
+
+> <szmap_vdw>
+6.359
+
+> <szmap_order>
+0.726
+
+> <szmap_probability>
+0.215
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -17.7440   -8.9425  -27.7710 O   0  0  0  0  0  0
+  -17.9840   -8.9425  -28.6976 H   0  0  0  0  0  0
+  -16.7868   -8.9425  -27.7710 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+871
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.34
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+34
+
+> <szmap_neut_diff_free_energy>
+-5.105
+
+> <szmap_vdw>
+6.359
+
+> <szmap_order>
+0.726
+
+> <szmap_probability>
+0.18
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -27.7440   -4.9425  -19.7710 O   0  0  0  0  0  0
+  -27.2635   -5.5722  -20.3085 H   0  0  0  0  0  0
+  -28.5184   -5.4211  -19.4752 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+872
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.35
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+35
+
+> <szmap_neut_diff_free_energy>
+-4.923
+
+> <szmap_vdw>
+6.306
+
+> <szmap_order>
+0.365
+
+> <szmap_probability>
+0.246
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -27.7440   -4.9425  -19.7710 O   0  0  0  0  0  0
+  -28.2245   -5.5722  -19.2335 H   0  0  0  0  0  0
+  -26.9696   -5.4211  -20.0668 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+873
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.36
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+36
+
+> <szmap_neut_diff_free_energy>
+-4.923
+
+> <szmap_vdw>
+6.306
+
+> <szmap_order>
+0.365
+
+> <szmap_probability>
+0.244
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -27.7440   -4.9425  -19.7710 O   0  0  0  0  0  0
+  -26.8743   -5.3317  -19.6788 H   0  0  0  0  0  0
+  -28.2226   -5.2383  -18.9966 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+874
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.37
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+37
+
+> <szmap_neut_diff_free_energy>
+-4.923
+
+> <szmap_vdw>
+6.306
+
+> <szmap_order>
+0.365
+
+> <szmap_probability>
+0.122
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -22.2440  -10.9425  -25.2710 O   0  0  0  0  0  0
+  -22.7815  -10.4620  -25.9007 H   0  0  0  0  0  0
+  -21.9482  -11.7169  -25.7496 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+875
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.38
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+38
+
+> <szmap_neut_diff_free_energy>
+-4.853
+
+> <szmap_vdw>
+6.304
+
+> <szmap_order>
+0.314
+
+> <szmap_probability>
+0.136
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -22.2440  -10.9425  -25.2710 O   0  0  0  0  0  0
+  -22.3362  -11.8122  -25.6602 H   0  0  0  0  0  0
+  -23.0184  -10.4639  -25.5668 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+876
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.39
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+39
+
+> <szmap_neut_diff_free_energy>
+-4.853
+
+> <szmap_vdw>
+6.304
+
+> <szmap_order>
+0.314
+
+> <szmap_probability>
+0.13
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -22.2440  -10.9425  -25.2710 O   0  0  0  0  0  0
+  -23.1137  -11.3317  -25.3632 H   0  0  0  0  0  0
+  -21.7654  -11.2383  -26.0454 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+877
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.40
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+40
+
+> <szmap_neut_diff_free_energy>
+-4.853
+
+> <szmap_vdw>
+6.304
+
+> <szmap_order>
+0.314
+
+> <szmap_probability>
+0.126
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -22.2440  -10.9425  -25.2710 O   0  0  0  0  0  0
+  -22.0040  -10.9425  -26.1976 H   0  0  0  0  0  0
+  -23.2012  -10.9425  -25.2710 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+878
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.41
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+41
+
+> <szmap_neut_diff_free_energy>
+-4.853
+
+> <szmap_vdw>
+6.304
+
+> <szmap_order>
+0.314
+
+> <szmap_probability>
+0.124
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -24.2440   -6.9425  -30.2710 O   0  0  0  0  0  0
+  -23.3743   -6.5533  -30.1788 H   0  0  0  0  0  0
+  -24.7226   -6.6467  -29.4966 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+879
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.42
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+42
+
+> <szmap_neut_diff_free_energy>
+-4.84
+
+> <szmap_vdw>
+6.213
+
+> <szmap_order>
+0.351
+
+> <szmap_probability>
+0.196
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -24.2440   -6.9425  -30.2710 O   0  0  0  0  0  0
+  -23.7065   -7.4230  -29.6413 H   0  0  0  0  0  0
+  -24.5398   -6.1681  -29.7924 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+880
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.43
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+43
+
+> <szmap_neut_diff_free_energy>
+-4.84
+
+> <szmap_vdw>
+6.213
+
+> <szmap_order>
+0.351
+
+> <szmap_probability>
+0.125
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -24.2440   -6.9425  -30.2710 O   0  0  0  0  0  0
+  -24.4840   -6.9425  -29.3444 H   0  0  0  0  0  0
+  -23.2868   -6.9425  -30.2710 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+881
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.44
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+44
+
+> <szmap_neut_diff_free_energy>
+-4.84
+
+> <szmap_vdw>
+6.213
+
+> <szmap_order>
+0.351
+
+> <szmap_probability>
+0.111
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -24.2440   -6.9425  -30.2710 O   0  0  0  0  0  0
+  -24.2440   -6.0159  -30.5110 H   0  0  0  0  0  0
+  -24.2440   -6.9425  -29.3138 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+882
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.45
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+45
+
+> <szmap_neut_diff_free_energy>
+-4.84
+
+> <szmap_vdw>
+6.213
+
+> <szmap_order>
+0.351
+
+> <szmap_probability>
+0.11
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -15.7440  -10.4425  -26.2710 O   0  0  0  0  0  0
+  -16.2815  -10.9230  -26.9007 H   0  0  0  0  0  0
+  -15.4482   -9.6681  -26.7496 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+883
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.46
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+46
+
+> <szmap_neut_diff_free_energy>
+-4.831
+
+> <szmap_vdw>
+5.505
+
+> <szmap_order>
+0.681
+
+> <szmap_probability>
+0.225
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -15.7440  -10.4425  -26.2710 O   0  0  0  0  0  0
+  -15.6518   -9.5728  -26.6602 H   0  0  0  0  0  0
+  -14.9696  -10.9211  -26.5668 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+884
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.47
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+47
+
+> <szmap_neut_diff_free_energy>
+-4.831
+
+> <szmap_vdw>
+5.505
+
+> <szmap_order>
+0.681
+
+> <szmap_probability>
+0.217
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -15.7440  -10.4425  -26.2710 O   0  0  0  0  0  0
+  -15.2635   -9.8128  -26.8085 H   0  0  0  0  0  0
+  -16.5184   -9.9639  -25.9752 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+885
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.48
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+48
+
+> <szmap_neut_diff_free_energy>
+-4.831
+
+> <szmap_vdw>
+5.505
+
+> <szmap_order>
+0.681
+
+> <szmap_probability>
+0.147
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -26.2440    1.5575  -36.7710 O   0  0  0  0  0  0
+  -25.7065    2.0380  -36.1413 H   0  0  0  0  0  0
+  -26.5398    0.7831  -36.2924 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+886
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.49
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+49
+
+> <szmap_neut_diff_free_energy>
+-4.721
+
+> <szmap_vdw>
+2.008
+
+> <szmap_order>
+0.804
+
+> <szmap_probability>
+0.727
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -16.7440   -9.4425  -25.7710 O   0  0  0  0  0  0
+  -17.6137   -9.0533  -25.8632 H   0  0  0  0  0  0
+  -16.2654   -9.1467  -26.5454 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+887
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.50
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+50
+
+> <szmap_neut_diff_free_energy>
+-4.487
+
+> <szmap_vdw>
+3.529
+
+> <szmap_order>
+0.65
+
+> <szmap_probability>
+0.221
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -16.7440   -9.4425  -25.7710 O   0  0  0  0  0  0
+  -16.3548   -9.3503  -26.6407 H   0  0  0  0  0  0
+  -16.4482   -8.6681  -25.2924 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+888
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.51
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+51
+
+> <szmap_neut_diff_free_energy>
+-4.487
+
+> <szmap_vdw>
+3.529
+
+> <szmap_order>
+0.65
+
+> <szmap_probability>
+0.219
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -16.7440   -9.4425  -25.7710 O   0  0  0  0  0  0
+  -16.2065   -8.9620  -26.4007 H   0  0  0  0  0  0
+  -17.0398  -10.2169  -26.2496 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+889
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.52
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+52
+
+> <szmap_neut_diff_free_energy>
+-4.487
+
+> <szmap_vdw>
+3.529
+
+> <szmap_order>
+0.65
+
+> <szmap_probability>
+0.178
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -15.2440   -8.9425  -25.2710 O   0  0  0  0  0  0
+  -14.3743   -8.5533  -25.3632 H   0  0  0  0  0  0
+  -15.7226   -8.6467  -26.0454 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+890
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.53
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+53
+
+> <szmap_neut_diff_free_energy>
+-4.419
+
+> <szmap_vdw>
+6.186
+
+> <szmap_order>
+0.814
+
+> <szmap_probability>
+0.562
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -17.7440   -9.4425  -22.2710 O   0  0  0  0  0  0
+  -17.3548   -9.5347  -23.1407 H   0  0  0  0  0  0
+  -17.4482  -10.2169  -21.7924 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+891
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.54
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+54
+
+> <szmap_neut_diff_free_energy>
+-4.185
+
+> <szmap_vdw>
+5.503
+
+> <szmap_order>
+0.381
+
+> <szmap_probability>
+0.191
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -17.7440   -9.4425  -22.2710 O   0  0  0  0  0  0
+  -17.7440  -10.3691  -22.0310 H   0  0  0  0  0  0
+  -17.7440   -9.4425  -23.2282 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+892
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.55
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+55
+
+> <szmap_neut_diff_free_energy>
+-4.185
+
+> <szmap_vdw>
+5.503
+
+> <szmap_order>
+0.381
+
+> <szmap_probability>
+0.187
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -17.7440   -9.4425  -22.2710 O   0  0  0  0  0  0
+  -16.8743   -9.8317  -22.3632 H   0  0  0  0  0  0
+  -18.2226   -9.7383  -23.0454 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+893
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.56
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+56
+
+> <szmap_neut_diff_free_energy>
+-4.185
+
+> <szmap_vdw>
+5.503
+
+> <szmap_order>
+0.381
+
+> <szmap_probability>
+0.165
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -27.2440   -2.4425  -26.2710 O   0  0  0  0  0  0
+  -27.3362   -3.3122  -26.6602 H   0  0  0  0  0  0
+  -28.0184   -1.9639  -26.5668 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+894
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.57
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+57
+
+> <szmap_neut_diff_free_energy>
+-4.175
+
+> <szmap_vdw>
+4.046
+
+> <szmap_order>
+0.78
+
+> <szmap_probability>
+0.765
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -22.2440   -9.4425  -40.2710 O   0  0  0  0  0  0
+  -22.6332   -9.5347  -41.1407 H   0  0  0  0  0  0
+  -22.5398  -10.2169  -39.7924 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+895
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.58
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+58
+
+> <szmap_neut_diff_free_energy>
+-3.752
+
+> <szmap_vdw>
+4.659
+
+> <szmap_order>
+0.367
+
+> <szmap_probability>
+0.191
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -22.2440   -9.4425  -40.2710 O   0  0  0  0  0  0
+  -22.8737   -9.9800  -39.7905 H   0  0  0  0  0  0
+  -22.7226   -9.1467  -41.0454 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+896
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.59
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+59
+
+> <szmap_neut_diff_free_energy>
+-3.752
+
+> <szmap_vdw>
+4.659
+
+> <szmap_order>
+0.367
+
+> <szmap_probability>
+0.176
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -22.2440   -9.4425  -40.2710 O   0  0  0  0  0  0
+  -22.2440  -10.3691  -40.0310 H   0  0  0  0  0  0
+  -22.2440   -9.4425  -41.2282 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+897
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.60
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+60
+
+> <szmap_neut_diff_free_energy>
+-3.752
+
+> <szmap_vdw>
+4.659
+
+> <szmap_order>
+0.367
+
+> <szmap_probability>
+0.119
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -22.2440   -9.4425  -40.2710 O   0  0  0  0  0  0
+  -21.7635  -10.0722  -40.8085 H   0  0  0  0  0  0
+  -23.0184   -9.9211  -39.9752 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+898
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.61
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+61
+
+> <szmap_neut_diff_free_energy>
+-3.752
+
+> <szmap_vdw>
+4.659
+
+> <szmap_order>
+0.367
+
+> <szmap_probability>
+0.107
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.7440   -4.9425  -29.2710 O   0  0  0  0  0  0
+  -20.1332   -5.0347  -28.4013 H   0  0  0  0  0  0
+  -20.0398   -5.7169  -29.7496 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+899
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.62
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+62
+
+> <szmap_neut_diff_free_energy>
+-3.556
+
+> <szmap_vdw>
+3.379
+
+> <szmap_order>
+0.318
+
+> <szmap_probability>
+0.126
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.7440   -4.9425  -29.2710 O   0  0  0  0  0  0
+  -20.6706   -4.7025  -29.2710 H   0  0  0  0  0  0
+  -19.7440   -5.8997  -29.2710 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+900
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.63
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+63
+
+> <szmap_neut_diff_free_energy>
+-3.556
+
+> <szmap_vdw>
+3.379
+
+> <szmap_order>
+0.318
+
+> <szmap_probability>
+0.122
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.7440   -4.9425  -29.2710 O   0  0  0  0  0  0
+  -19.8362   -5.8122  -28.8818 H   0  0  0  0  0  0
+  -20.5184   -4.4639  -28.9752 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+901
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.64
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+64
+
+> <szmap_neut_diff_free_energy>
+-3.556
+
+> <szmap_vdw>
+3.379
+
+> <szmap_order>
+0.318
+
+> <szmap_probability>
+0.121
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.7440   -4.9425  -29.2710 O   0  0  0  0  0  0
+  -20.3737   -5.4800  -29.7515 H   0  0  0  0  0  0
+  -20.2226   -4.6467  -28.4966 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+902
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.65
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+65
+
+> <szmap_neut_diff_free_energy>
+-3.556
+
+> <szmap_vdw>
+3.379
+
+> <szmap_order>
+0.318
+
+> <szmap_probability>
+0.112
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.7440   -4.9425  -29.2710 O   0  0  0  0  0  0
+  -19.8362   -5.8122  -29.6602 H   0  0  0  0  0  0
+  -20.5184   -4.4639  -29.5668 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+903
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.66
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+66
+
+> <szmap_neut_diff_free_energy>
+-3.556
+
+> <szmap_vdw>
+3.379
+
+> <szmap_order>
+0.318
+
+> <szmap_probability>
+0.093
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -27.2440   -8.9425  -30.7710 O   0  0  0  0  0  0
+  -27.0040   -8.9425  -31.6976 H   0  0  0  0  0  0
+  -28.2012   -8.9425  -30.7710 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+904
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.67
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+67
+
+> <szmap_neut_diff_free_energy>
+-3.01
+
+> <szmap_vdw>
+5.277
+
+> <szmap_order>
+0.835
+
+> <szmap_probability>
+0.778
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -15.7440   -7.4425  -38.7710 O   0  0  0  0  0  0
+  -15.6518   -8.3122  -39.1602 H   0  0  0  0  0  0
+  -14.9696   -6.9639  -39.0668 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+905
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.68
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+68
+
+> <szmap_neut_diff_free_energy>
+-2.914
+
+> <szmap_vdw>
+5.41
+
+> <szmap_order>
+0.428
+
+> <szmap_probability>
+0.393
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -15.7440   -7.4425  -38.7710 O   0  0  0  0  0  0
+  -14.8174   -7.2025  -38.7710 H   0  0  0  0  0  0
+  -15.7440   -8.3997  -38.7710 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+906
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.69
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+69
+
+> <szmap_neut_diff_free_energy>
+-2.914
+
+> <szmap_vdw>
+5.41
+
+> <szmap_order>
+0.428
+
+> <szmap_probability>
+0.226
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -12.2440   -5.4425  -39.2710 O   0  0  0  0  0  0
+  -12.0040   -5.4425  -38.3444 H   0  0  0  0  0  0
+  -13.2012   -5.4425  -39.2710 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+907
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.70
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+70
+
+> <szmap_neut_diff_free_energy>
+-2.901
+
+> <szmap_vdw>
+2.489
+
+> <szmap_order>
+0.656
+
+> <szmap_probability>
+0.353
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -12.2440   -5.4425  -39.2710 O   0  0  0  0  0  0
+  -13.1706   -5.2025  -39.2710 H   0  0  0  0  0  0
+  -12.2440   -6.3997  -39.2710 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+908
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.71
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+71
+
+> <szmap_neut_diff_free_energy>
+-2.901
+
+> <szmap_vdw>
+2.489
+
+> <szmap_order>
+0.656
+
+> <szmap_probability>
+0.35
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.7440   -6.9425  -31.7710 O   0  0  0  0  0  0
+  -18.8743   -6.5533  -31.6788 H   0  0  0  0  0  0
+  -20.2226   -6.6467  -30.9966 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+909
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.72
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+72
+
+> <szmap_neut_diff_free_energy>
+-2.779
+
+> <szmap_vdw>
+2.317
+
+> <szmap_order>
+0.597
+
+> <szmap_probability>
+0.192
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.7440   -6.9425  -31.7710 O   0  0  0  0  0  0
+  -18.8174   -6.7025  -31.7710 H   0  0  0  0  0  0
+  -19.7440   -7.8997  -31.7710 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+910
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.73
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+73
+
+> <szmap_neut_diff_free_energy>
+-2.779
+
+> <szmap_vdw>
+2.317
+
+> <szmap_order>
+0.597
+
+> <szmap_probability>
+0.132
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.7440   -6.9425  -31.7710 O   0  0  0  0  0  0
+  -19.6518   -7.8122  -31.3818 H   0  0  0  0  0  0
+  -18.9696   -6.4639  -31.4752 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+911
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.74
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+74
+
+> <szmap_neut_diff_free_energy>
+-2.779
+
+> <szmap_vdw>
+2.317
+
+> <szmap_order>
+0.597
+
+> <szmap_probability>
+0.12
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.7440   -6.9425  -31.7710 O   0  0  0  0  0  0
+  -18.8743   -6.5533  -31.8632 H   0  0  0  0  0  0
+  -20.2226   -6.6467  -32.5454 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+912
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.75
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+75
+
+> <szmap_neut_diff_free_energy>
+-2.779
+
+> <szmap_vdw>
+2.317
+
+> <szmap_order>
+0.597
+
+> <szmap_probability>
+0.111
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.7440   -7.4425  -26.2710 O   0  0  0  0  0  0
+  -18.8743   -7.8317  -26.1788 H   0  0  0  0  0  0
+  -20.2226   -7.7383  -25.4966 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+913
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.76
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+76
+
+> <szmap_neut_diff_free_energy>
+-2.748
+
+> <szmap_vdw>
+4.529
+
+> <szmap_order>
+0.619
+
+> <szmap_probability>
+0.272
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.7440   -7.4425  -26.2710 O   0  0  0  0  0  0
+  -20.2815   -7.9230  -25.6413 H   0  0  0  0  0  0
+  -19.4482   -6.6681  -25.7924 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+914
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.77
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+77
+
+> <szmap_neut_diff_free_energy>
+-2.748
+
+> <szmap_vdw>
+4.529
+
+> <szmap_order>
+0.619
+
+> <szmap_probability>
+0.174
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.7440   -7.4425  -26.2710 O   0  0  0  0  0  0
+  -20.1332   -7.5347  -25.4013 H   0  0  0  0  0  0
+  -20.0398   -8.2169  -26.7496 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+915
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.78
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+78
+
+> <szmap_neut_diff_free_energy>
+-2.748
+
+> <szmap_vdw>
+4.529
+
+> <szmap_order>
+0.619
+
+> <szmap_probability>
+0.095
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -18.7440   -7.9425  -32.2710 O   0  0  0  0  0  0
+  -18.6518   -7.0728  -31.8818 H   0  0  0  0  0  0
+  -17.9696   -8.4211  -31.9752 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+916
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.79
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+79
+
+> <szmap_neut_diff_free_energy>
+-2.709
+
+> <szmap_vdw>
+3.443
+
+> <szmap_order>
+0.508
+
+> <szmap_probability>
+0.204
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -18.7440   -7.9425  -32.2710 O   0  0  0  0  0  0
+  -19.2245   -7.3128  -32.8085 H   0  0  0  0  0  0
+  -17.9696   -7.4639  -31.9752 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+917
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.80
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+80
+
+> <szmap_neut_diff_free_energy>
+-2.709
+
+> <szmap_vdw>
+3.443
+
+> <szmap_order>
+0.508
+
+> <szmap_probability>
+0.198
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -18.7440   -7.9425  -32.2710 O   0  0  0  0  0  0
+  -18.6518   -8.8122  -31.8818 H   0  0  0  0  0  0
+  -17.9696   -7.4639  -31.9752 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+918
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.81
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+81
+
+> <szmap_neut_diff_free_energy>
+-2.709
+
+> <szmap_vdw>
+3.443
+
+> <szmap_order>
+0.508
+
+> <szmap_probability>
+0.098
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -24.7440   -9.9425  -37.7710 O   0  0  0  0  0  0
+  -24.2635   -9.3128  -37.2335 H   0  0  0  0  0  0
+  -25.5184   -9.4639  -38.0668 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+919
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.82
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+82
+
+> <szmap_neut_diff_free_energy>
+-2.707
+
+> <szmap_vdw>
+4.848
+
+> <szmap_order>
+0.646
+
+> <szmap_probability>
+0.353
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -24.7440   -9.9425  -37.7710 O   0  0  0  0  0  0
+  -24.7440   -9.0159  -38.0110 H   0  0  0  0  0  0
+  -24.7440   -9.9425  -36.8138 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+920
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.83
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+83
+
+> <szmap_neut_diff_free_energy>
+-2.707
+
+> <szmap_vdw>
+4.848
+
+> <szmap_order>
+0.646
+
+> <szmap_probability>
+0.188
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -18.7440   -7.9425  -30.7710 O   0  0  0  0  0  0
+  -18.6518   -7.0728  -31.1602 H   0  0  0  0  0  0
+  -17.9696   -8.4211  -31.0668 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+921
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.84
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+84
+
+> <szmap_neut_diff_free_energy>
+-2.688
+
+> <szmap_vdw>
+3.399
+
+> <szmap_order>
+0.53
+
+> <szmap_probability>
+0.175
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -18.7440   -7.9425  -30.7710 O   0  0  0  0  0  0
+  -18.1143   -7.4050  -31.2515 H   0  0  0  0  0  0
+  -18.2654   -8.2383  -29.9966 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+922
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.85
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+85
+
+> <szmap_neut_diff_free_energy>
+-2.688
+
+> <szmap_vdw>
+3.399
+
+> <szmap_order>
+0.53
+
+> <szmap_probability>
+0.158
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -18.7440   -7.9425  -30.7710 O   0  0  0  0  0  0
+  -19.2245   -7.3128  -30.2335 H   0  0  0  0  0  0
+  -17.9696   -7.4639  -31.0668 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+923
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.86
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+86
+
+> <szmap_neut_diff_free_energy>
+-2.688
+
+> <szmap_vdw>
+3.399
+
+> <szmap_order>
+0.53
+
+> <szmap_probability>
+0.145
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -18.7440   -7.9425  -30.7710 O   0  0  0  0  0  0
+  -18.2635   -7.3128  -31.3085 H   0  0  0  0  0  0
+  -19.5184   -7.4639  -30.4752 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+924
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.87
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+87
+
+> <szmap_neut_diff_free_energy>
+-2.688
+
+> <szmap_vdw>
+3.399
+
+> <szmap_order>
+0.53
+
+> <szmap_probability>
+0.103
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -28.2440    0.0575  -40.2710 O   0  0  0  0  0  0
+  -29.1706    0.2975  -40.2710 H   0  0  0  0  0  0
+  -28.2440   -0.8997  -40.2710 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+925
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.88
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+88
+
+> <szmap_neut_diff_free_energy>
+-2.617
+
+> <szmap_vdw>
+4.339
+
+> <szmap_order>
+0.549
+
+> <szmap_probability>
+0.29
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -28.2440    0.0575  -40.2710 O   0  0  0  0  0  0
+  -28.6332   -0.0347  -39.4013 H   0  0  0  0  0  0
+  -28.5398   -0.7169  -40.7496 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+926
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.89
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+89
+
+> <szmap_neut_diff_free_energy>
+-2.617
+
+> <szmap_vdw>
+4.339
+
+> <szmap_order>
+0.549
+
+> <szmap_probability>
+0.165
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -28.2440    0.0575  -40.2710 O   0  0  0  0  0  0
+  -28.6332   -0.0347  -41.1407 H   0  0  0  0  0  0
+  -28.5398   -0.7169  -39.7924 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+927
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.90
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+90
+
+> <szmap_neut_diff_free_energy>
+-2.617
+
+> <szmap_vdw>
+4.339
+
+> <szmap_order>
+0.549
+
+> <szmap_probability>
+0.161
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -28.2440   -6.9425  -40.2710 O   0  0  0  0  0  0
+  -27.8548   -7.0347  -39.4013 H   0  0  0  0  0  0
+  -27.9482   -7.7169  -40.7496 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+928
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.91
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+91
+
+> <szmap_neut_diff_free_energy>
+-2.573
+
+> <szmap_vdw>
+3.608
+
+> <szmap_order>
+0.521
+
+> <szmap_probability>
+0.379
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -28.2440   -6.9425  -40.2710 O   0  0  0  0  0  0
+  -29.1137   -7.3317  -40.1788 H   0  0  0  0  0  0
+  -27.7654   -7.2383  -39.4966 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+929
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.92
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+92
+
+> <szmap_neut_diff_free_energy>
+-2.573
+
+> <szmap_vdw>
+3.608
+
+> <szmap_order>
+0.521
+
+> <szmap_probability>
+0.195
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -29.7440    1.5575  -38.2710 O   0  0  0  0  0  0
+  -30.6137    1.1683  -38.1788 H   0  0  0  0  0  0
+  -29.2654    1.2617  -37.4966 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+930
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.93
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+93
+
+> <szmap_neut_diff_free_energy>
+-2.486
+
+> <szmap_vdw>
+2.069
+
+> <szmap_order>
+0.513
+
+> <szmap_probability>
+0.146
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -29.7440    1.5575  -38.2710 O   0  0  0  0  0  0
+  -30.3737    1.0200  -37.7905 H   0  0  0  0  0  0
+  -30.2226    1.8533  -39.0454 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+931
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.94
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+94
+
+> <szmap_neut_diff_free_energy>
+-2.486
+
+> <szmap_vdw>
+2.069
+
+> <szmap_order>
+0.513
+
+> <szmap_probability>
+0.093
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -29.7440    1.5575  -38.2710 O   0  0  0  0  0  0
+  -30.2245    0.9278  -37.7335 H   0  0  0  0  0  0
+  -28.9696    1.0789  -38.5668 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+932
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.95
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+95
+
+> <szmap_neut_diff_free_energy>
+-2.486
+
+> <szmap_vdw>
+2.069
+
+> <szmap_order>
+0.513
+
+> <szmap_probability>
+0.087
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -29.7440    1.5575  -38.2710 O   0  0  0  0  0  0
+  -28.8743    1.1683  -38.1788 H   0  0  0  0  0  0
+  -30.2226    1.2617  -37.4966 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+933
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.96
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+96
+
+> <szmap_neut_diff_free_energy>
+-2.486
+
+> <szmap_vdw>
+2.069
+
+> <szmap_order>
+0.513
+
+> <szmap_probability>
+0.085
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -29.7440    1.5575  -38.2710 O   0  0  0  0  0  0
+  -30.3737    2.0950  -38.7515 H   0  0  0  0  0  0
+  -30.2226    1.2617  -37.4966 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+934
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.97
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+97
+
+> <szmap_neut_diff_free_energy>
+-2.486
+
+> <szmap_vdw>
+2.069
+
+> <szmap_order>
+0.513
+
+> <szmap_probability>
+0.084
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -29.7440    1.5575  -38.2710 O   0  0  0  0  0  0
+  -30.2815    1.0770  -37.6413 H   0  0  0  0  0  0
+  -29.4482    2.3319  -37.7924 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+935
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.98
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+98
+
+> <szmap_neut_diff_free_energy>
+-2.486
+
+> <szmap_vdw>
+2.069
+
+> <szmap_order>
+0.513
+
+> <szmap_probability>
+0.082
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -17.7440   -3.4425  -25.7710 O   0  0  0  0  0  0
+  -18.2245   -2.8128  -26.3085 H   0  0  0  0  0  0
+  -16.9696   -2.9639  -25.4752 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+936
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.99
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+99
+
+> <szmap_neut_diff_free_energy>
+-2.437
+
+> <szmap_vdw>
+1.262
+
+> <szmap_order>
+0.454
+
+> <szmap_probability>
+0.213
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -17.7440   -3.4425  -25.7710 O   0  0  0  0  0  0
+  -18.2245   -2.8128  -25.2335 H   0  0  0  0  0  0
+  -16.9696   -2.9639  -26.0668 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+937
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.100
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+100
+
+> <szmap_neut_diff_free_energy>
+-2.437
+
+> <szmap_vdw>
+1.262
+
+> <szmap_order>
+0.454
+
+> <szmap_probability>
+0.186
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -17.7440   -3.4425  -25.7710 O   0  0  0  0  0  0
+  -17.3548   -3.3503  -24.9013 H   0  0  0  0  0  0
+  -17.4482   -2.6681  -26.2496 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+938
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.101
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+101
+
+> <szmap_neut_diff_free_energy>
+-2.437
+
+> <szmap_vdw>
+1.262
+
+> <szmap_order>
+0.454
+
+> <szmap_probability>
+0.17
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -29.7440   -9.9425  -24.2710 O   0  0  0  0  0  0
+  -30.6137   -9.5533  -24.3632 H   0  0  0  0  0  0
+  -29.2654   -9.6467  -25.0454 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+939
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.102
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+102
+
+> <szmap_neut_diff_free_energy>
+-2.409
+
+> <szmap_vdw>
+4.141
+
+> <szmap_order>
+0.62
+
+> <szmap_probability>
+0.256
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -29.7440   -9.9425  -24.2710 O   0  0  0  0  0  0
+  -29.2065   -9.4620  -24.9007 H   0  0  0  0  0  0
+  -30.0398  -10.7169  -24.7496 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+940
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.103
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+103
+
+> <szmap_neut_diff_free_energy>
+-2.409
+
+> <szmap_vdw>
+4.141
+
+> <szmap_order>
+0.62
+
+> <szmap_probability>
+0.243
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -29.7440   -9.9425  -24.2710 O   0  0  0  0  0  0
+  -29.1143  -10.4800  -23.7905 H   0  0  0  0  0  0
+  -29.2654   -9.6467  -25.0454 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+941
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.104
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+104
+
+> <szmap_neut_diff_free_energy>
+-2.409
+
+> <szmap_vdw>
+4.141
+
+> <szmap_order>
+0.62
+
+> <szmap_probability>
+0.181
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -30.2440   -5.9425  -23.7710 O   0  0  0  0  0  0
+  -30.6332   -5.8503  -24.6407 H   0  0  0  0  0  0
+  -30.5398   -5.1681  -23.2924 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+942
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.105
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+105
+
+> <szmap_neut_diff_free_energy>
+-2.361
+
+> <szmap_vdw>
+4.008
+
+> <szmap_order>
+0.592
+
+> <szmap_probability>
+0.324
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -30.2440   -5.9425  -23.7710 O   0  0  0  0  0  0
+  -30.7245   -5.3128  -23.2335 H   0  0  0  0  0  0
+  -29.4696   -5.4639  -24.0668 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+943
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.106
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+106
+
+> <szmap_neut_diff_free_energy>
+-2.361
+
+> <szmap_vdw>
+4.008
+
+> <szmap_order>
+0.592
+
+> <szmap_probability>
+0.192
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -20.7440   -6.4425  -25.7710 O   0  0  0  0  0  0
+  -21.2815   -5.9620  -25.1413 H   0  0  0  0  0  0
+  -20.4482   -7.2169  -25.2924 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+944
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.107
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+107
+
+> <szmap_neut_diff_free_energy>
+-2.354
+
+> <szmap_vdw>
+3.509
+
+> <szmap_order>
+0.58
+
+> <szmap_probability>
+0.167
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -20.7440   -6.4425  -25.7710 O   0  0  0  0  0  0
+  -20.6518   -7.3122  -25.3818 H   0  0  0  0  0  0
+  -19.9696   -5.9639  -25.4752 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+945
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.108
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+108
+
+> <szmap_neut_diff_free_energy>
+-2.354
+
+> <szmap_vdw>
+3.509
+
+> <szmap_order>
+0.58
+
+> <szmap_probability>
+0.159
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -20.7440   -6.4425  -25.7710 O   0  0  0  0  0  0
+  -20.2635   -7.0722  -25.2335 H   0  0  0  0  0  0
+  -21.5184   -6.9211  -26.0668 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+946
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.109
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+109
+
+> <szmap_neut_diff_free_energy>
+-2.354
+
+> <szmap_vdw>
+3.509
+
+> <szmap_order>
+0.58
+
+> <szmap_probability>
+0.136
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -20.7440   -6.4425  -25.7710 O   0  0  0  0  0  0
+  -20.3548   -6.5347  -26.6407 H   0  0  0  0  0  0
+  -20.4482   -7.2169  -25.2924 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+947
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.110
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+110
+
+> <szmap_neut_diff_free_energy>
+-2.354
+
+> <szmap_vdw>
+3.509
+
+> <szmap_order>
+0.58
+
+> <szmap_probability>
+0.131
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -30.7440    0.5575  -39.2710 O   0  0  0  0  0  0
+  -30.9840    0.5575  -38.3444 H   0  0  0  0  0  0
+  -29.7868    0.5575  -39.2710 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+948
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.111
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+111
+
+> <szmap_neut_diff_free_energy>
+-2.236
+
+> <szmap_vdw>
+2.472
+
+> <szmap_order>
+0.623
+
+> <szmap_probability>
+0.187
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -30.7440    0.5575  -39.2710 O   0  0  0  0  0  0
+  -31.1332    0.4653  -38.4013 H   0  0  0  0  0  0
+  -31.0398   -0.2169  -39.7496 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+949
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.112
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+112
+
+> <szmap_neut_diff_free_energy>
+-2.236
+
+> <szmap_vdw>
+2.472
+
+> <szmap_order>
+0.623
+
+> <szmap_probability>
+0.184
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -30.7440    0.5575  -39.2710 O   0  0  0  0  0  0
+  -30.7440   -0.3691  -39.5110 H   0  0  0  0  0  0
+  -30.7440    0.5575  -38.3138 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+950
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.113
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+113
+
+> <szmap_neut_diff_free_energy>
+-2.236
+
+> <szmap_vdw>
+2.472
+
+> <szmap_order>
+0.623
+
+> <szmap_probability>
+0.132
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -25.2440   -4.4425  -20.2710 O   0  0  0  0  0  0
+  -25.3362   -3.5728  -19.8818 H   0  0  0  0  0  0
+  -26.0184   -4.9211  -19.9752 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+951
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.114
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+114
+
+> <szmap_neut_diff_free_energy>
+-2.065
+
+> <szmap_vdw>
+2.952
+
+> <szmap_order>
+0.598
+
+> <szmap_probability>
+0.157
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -25.2440   -4.4425  -20.2710 O   0  0  0  0  0  0
+  -25.1518   -3.5728  -19.8818 H   0  0  0  0  0  0
+  -24.4696   -4.9211  -19.9752 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+952
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.115
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+115
+
+> <szmap_neut_diff_free_energy>
+-2.065
+
+> <szmap_vdw>
+2.952
+
+> <szmap_order>
+0.598
+
+> <szmap_probability>
+0.155
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -25.2440   -4.4425  -20.2710 O   0  0  0  0  0  0
+  -25.2440   -3.5159  -20.0310 H   0  0  0  0  0  0
+  -25.2440   -4.4425  -21.2282 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+953
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.116
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+116
+
+> <szmap_neut_diff_free_energy>
+-2.065
+
+> <szmap_vdw>
+2.952
+
+> <szmap_order>
+0.598
+
+> <szmap_probability>
+0.13
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -25.2440   -4.4425  -20.2710 O   0  0  0  0  0  0
+  -25.2440   -3.5159  -20.5110 H   0  0  0  0  0  0
+  -25.2440   -4.4425  -19.3138 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+954
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.117
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+117
+
+> <szmap_neut_diff_free_energy>
+-2.065
+
+> <szmap_vdw>
+2.952
+
+> <szmap_order>
+0.598
+
+> <szmap_probability>
+0.116
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -18.7440   -7.9425  -18.2710 O   0  0  0  0  0  0
+  -18.8362   -7.0728  -18.6602 H   0  0  0  0  0  0
+  -19.5184   -8.4211  -18.5668 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+955
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.118
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+118
+
+> <szmap_neut_diff_free_energy>
+-1.849
+
+> <szmap_vdw>
+2.507
+
+> <szmap_order>
+0.573
+
+> <szmap_probability>
+0.216
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -18.7440   -7.9425  -18.2710 O   0  0  0  0  0  0
+  -19.1332   -7.8503  -17.4013 H   0  0  0  0  0  0
+  -19.0398   -7.1681  -18.7496 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+956
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.119
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+119
+
+> <szmap_neut_diff_free_energy>
+-1.849
+
+> <szmap_vdw>
+2.507
+
+> <szmap_order>
+0.573
+
+> <szmap_probability>
+0.195
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -18.7440   -7.9425  -18.2710 O   0  0  0  0  0  0
+  -18.2635   -7.3128  -17.7335 H   0  0  0  0  0  0
+  -19.5184   -7.4639  -18.5668 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+957
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.120
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+120
+
+> <szmap_neut_diff_free_energy>
+-1.849
+
+> <szmap_vdw>
+2.507
+
+> <szmap_order>
+0.573
+
+> <szmap_probability>
+0.168
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -13.7440   -5.9425  -37.7710 O   0  0  0  0  0  0
+  -14.2245   -5.3128  -38.3085 H   0  0  0  0  0  0
+  -12.9696   -5.4639  -37.4752 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+958
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.121
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+121
+
+> <szmap_neut_diff_free_energy>
+-1.848
+
+> <szmap_vdw>
+3.35
+
+> <szmap_order>
+0.62
+
+> <szmap_probability>
+0.343
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -13.7440   -5.9425  -37.7710 O   0  0  0  0  0  0
+  -12.8743   -5.5533  -37.8632 H   0  0  0  0  0  0
+  -14.2226   -5.6467  -38.5454 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+959
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.122
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+122
+
+> <szmap_neut_diff_free_energy>
+-1.848
+
+> <szmap_vdw>
+3.35
+
+> <szmap_order>
+0.62
+
+> <szmap_probability>
+0.176
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -28.7440   -8.4425  -24.2710 O   0  0  0  0  0  0
+  -27.8743   -8.8317  -24.3632 H   0  0  0  0  0  0
+  -29.2226   -8.7383  -25.0454 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+960
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.123
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+123
+
+> <szmap_neut_diff_free_energy>
+-1.846
+
+> <szmap_vdw>
+3.674
+
+> <szmap_order>
+0.442
+
+> <szmap_probability>
+0.18
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -28.7440   -8.4425  -24.2710 O   0  0  0  0  0  0
+  -28.2065   -7.9620  -24.9007 H   0  0  0  0  0  0
+  -29.0398   -9.2169  -24.7496 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+961
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.124
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+124
+
+> <szmap_neut_diff_free_energy>
+-1.846
+
+> <szmap_vdw>
+3.674
+
+> <szmap_order>
+0.442
+
+> <szmap_probability>
+0.138
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -28.7440   -8.4425  -24.2710 O   0  0  0  0  0  0
+  -29.2815   -8.9230  -24.9007 H   0  0  0  0  0  0
+  -28.4482   -7.6681  -24.7496 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+962
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.125
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+125
+
+> <szmap_neut_diff_free_energy>
+-1.846
+
+> <szmap_vdw>
+3.674
+
+> <szmap_order>
+0.442
+
+> <szmap_probability>
+0.135
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -28.7440   -8.4425  -24.2710 O   0  0  0  0  0  0
+  -29.1332   -8.5347  -25.1407 H   0  0  0  0  0  0
+  -29.0398   -9.2169  -23.7924 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+963
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.126
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+126
+
+> <szmap_neut_diff_free_energy>
+-1.846
+
+> <szmap_vdw>
+3.674
+
+> <szmap_order>
+0.442
+
+> <szmap_probability>
+0.089
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -24.7440   -4.4425  -18.7710 O   0  0  0  0  0  0
+  -25.1332   -4.3503  -17.9013 H   0  0  0  0  0  0
+  -25.0398   -3.6681  -19.2496 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+964
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.127
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+127
+
+> <szmap_neut_diff_free_energy>
+-1.629
+
+> <szmap_vdw>
+1.316
+
+> <szmap_order>
+0.551
+
+> <szmap_probability>
+0.218
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -24.7440   -4.4425  -18.7710 O   0  0  0  0  0  0
+  -24.8362   -3.5728  -19.1602 H   0  0  0  0  0  0
+  -25.5184   -4.9211  -19.0668 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+965
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.128
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+128
+
+> <szmap_neut_diff_free_energy>
+-1.629
+
+> <szmap_vdw>
+1.316
+
+> <szmap_order>
+0.551
+
+> <szmap_probability>
+0.192
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -24.7440   -4.4425  -18.7710 O   0  0  0  0  0  0
+  -24.2065   -4.9230  -19.4007 H   0  0  0  0  0  0
+  -25.0398   -3.6681  -19.2496 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+966
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.129
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+129
+
+> <szmap_neut_diff_free_energy>
+-1.629
+
+> <szmap_vdw>
+1.316
+
+> <szmap_order>
+0.551
+
+> <szmap_probability>
+0.159
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -18.2440   -6.9425  -24.7710 O   0  0  0  0  0  0
+  -17.7635   -7.5722  -25.3085 H   0  0  0  0  0  0
+  -19.0184   -7.4211  -24.4752 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+967
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.130
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+130
+
+> <szmap_neut_diff_free_energy>
+-1.514
+
+> <szmap_vdw>
+2.144
+
+> <szmap_order>
+0.639
+
+> <szmap_probability>
+0.254
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -18.2440   -6.9425  -24.7710 O   0  0  0  0  0  0
+  -18.8737   -7.4800  -24.2905 H   0  0  0  0  0  0
+  -18.7226   -6.6467  -25.5454 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+968
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.131
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+131
+
+> <szmap_neut_diff_free_energy>
+-1.514
+
+> <szmap_vdw>
+2.144
+
+> <szmap_order>
+0.639
+
+> <szmap_probability>
+0.16
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -18.2440   -6.9425  -24.7710 O   0  0  0  0  0  0
+  -18.3362   -6.0728  -24.3818 H   0  0  0  0  0  0
+  -19.0184   -7.4211  -24.4752 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+969
+
+> <s_m_entry_name>
+SZMAP_Mpro_7AR5.132
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7AR5\SZMAP_7AR5
+
+> <s_m_Source_File>
+SZMAP_Mpro_7AR5.mae
+
+> <i_m_Source_File_Index>
+132
+
+> <szmap_neut_diff_free_energy>
+-1.514
+
+> <szmap_vdw>
+2.144
+
+> <szmap_order>
+0.639
+
+> <szmap_probability>
+0.155
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR51->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7AR5->SZMAP_Mpro_7AR5->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

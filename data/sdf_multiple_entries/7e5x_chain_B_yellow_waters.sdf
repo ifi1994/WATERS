@@ -1,0 +1,6674 @@
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -27.7440   -2.4425  -27.2711 O   0  0  0  0  0  0
+  -27.8362   -3.3122  -26.8820 H   0  0  0  0  0  0
+  -28.5184   -1.9639  -26.9753 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+954
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.6
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+6
+
+> <szmap_neut_diff_free_energy>
+-7.798
+
+> <szmap_vdw>
+10.151
+
+> <szmap_order>
+0.705
+
+> <szmap_probability>
+0.665
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -28.7440   -6.9425  -24.2711 O   0  0  0  0  0  0
+  -28.3548   -6.8503  -23.4015 H   0  0  0  0  0  0
+  -28.4482   -6.1681  -24.7497 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+955
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.7
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+7
+
+> <szmap_neut_diff_free_energy>
+-7.57
+
+> <szmap_vdw>
+9.258
+
+> <szmap_order>
+0.393
+
+> <szmap_probability>
+0.272
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -28.7440   -6.9425  -24.2711 O   0  0  0  0  0  0
+  -27.8174   -7.1825  -24.2711 H   0  0  0  0  0  0
+  -28.7440   -5.9853  -24.2711 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+956
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.8
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+8
+
+> <szmap_neut_diff_free_energy>
+-7.57
+
+> <szmap_vdw>
+9.258
+
+> <szmap_order>
+0.393
+
+> <szmap_probability>
+0.213
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -28.7440   -6.9425  -24.2711 O   0  0  0  0  0  0
+  -28.1143   -6.4050  -24.7516 H   0  0  0  0  0  0
+  -28.2654   -7.2383  -23.4967 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+957
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.9
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+9
+
+> <szmap_neut_diff_free_energy>
+-7.57
+
+> <szmap_vdw>
+9.258
+
+> <szmap_order>
+0.393
+
+> <szmap_probability>
+0.153
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -13.7440   -6.4425  -25.7711 O   0  0  0  0  0  0
+  -14.1332   -6.5347  -24.9015 H   0  0  0  0  0  0
+  -14.0398   -7.2169  -26.2497 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+958
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.10
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+10
+
+> <szmap_neut_diff_free_energy>
+-7.275
+
+> <szmap_vdw>
+9.426
+
+> <szmap_order>
+0.608
+
+> <szmap_probability>
+0.358
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -13.7440   -6.4425  -25.7711 O   0  0  0  0  0  0
+  -13.2635   -7.0722  -25.2336 H   0  0  0  0  0  0
+  -14.5184   -6.9211  -26.0669 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+959
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.11
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+11
+
+> <szmap_neut_diff_free_energy>
+-7.275
+
+> <szmap_vdw>
+9.426
+
+> <szmap_order>
+0.608
+
+> <szmap_probability>
+0.2
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -27.2440   -4.4425  -20.2711 O   0  0  0  0  0  0
+  -26.3174   -4.2025  -20.2711 H   0  0  0  0  0  0
+  -27.2440   -5.3997  -20.2711 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+960
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.12
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+12
+
+> <szmap_neut_diff_free_energy>
+-7.13
+
+> <szmap_vdw>
+9.501
+
+> <szmap_order>
+0.466
+
+> <szmap_probability>
+0.378
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -27.2440   -4.4425  -20.2711 O   0  0  0  0  0  0
+  -26.8548   -4.5347  -21.1408 H   0  0  0  0  0  0
+  -26.9482   -5.2169  -19.7925 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+961
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.13
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+13
+
+> <szmap_neut_diff_free_energy>
+-7.13
+
+> <szmap_vdw>
+9.501
+
+> <szmap_order>
+0.466
+
+> <szmap_probability>
+0.208
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -21.2440   -4.9425  -36.7711 O   0  0  0  0  0  0
+  -20.8548   -5.0347  -35.9015 H   0  0  0  0  0  0
+  -20.9482   -5.7169  -37.2497 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+962
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.14
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+14
+
+> <szmap_neut_diff_free_energy>
+-7.111
+
+> <szmap_vdw>
+8.237
+
+> <szmap_order>
+0.874
+
+> <szmap_probability>
+0.937
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -25.7440    2.5575  -39.7711 O   0  0  0  0  0  0
+  -25.2635    3.1872  -40.3086 H   0  0  0  0  0  0
+  -26.5184    3.0361  -39.4753 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+963
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.15
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+15
+
+> <szmap_neut_diff_free_energy>
+-6.964
+
+> <szmap_vdw>
+7.344
+
+> <szmap_order>
+0.413
+
+> <szmap_probability>
+0.335
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -25.7440    2.5575  -39.7711 O   0  0  0  0  0  0
+  -25.2635    3.1872  -39.2336 H   0  0  0  0  0  0
+  -26.5184    3.0361  -40.0669 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+964
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.16
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+16
+
+> <szmap_neut_diff_free_energy>
+-6.964
+
+> <szmap_vdw>
+7.344
+
+> <szmap_order>
+0.413
+
+> <szmap_probability>
+0.297
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -14.2440  -11.4425  -28.7711 O   0  0  0  0  0  0
+  -13.3174  -11.6825  -28.7711 H   0  0  0  0  0  0
+  -14.2440  -10.4853  -28.7711 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+965
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.17
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+17
+
+> <szmap_neut_diff_free_energy>
+-6.653
+
+> <szmap_vdw>
+4.152
+
+> <szmap_order>
+0.742
+
+> <szmap_probability>
+0.389
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -14.2440  -11.4425  -28.7711 O   0  0  0  0  0  0
+  -15.1706  -11.6825  -28.7711 H   0  0  0  0  0  0
+  -14.2440  -10.4853  -28.7711 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+966
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.18
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+18
+
+> <szmap_neut_diff_free_energy>
+-6.653
+
+> <szmap_vdw>
+4.152
+
+> <szmap_order>
+0.742
+
+> <szmap_probability>
+0.278
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -26.2440    2.5575  -37.2711 O   0  0  0  0  0  0
+  -27.1137    2.9467  -37.1789 H   0  0  0  0  0  0
+  -25.7654    2.8533  -36.4967 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+967
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.19
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+19
+
+> <szmap_neut_diff_free_energy>
+-6.511
+
+> <szmap_vdw>
+8.388
+
+> <szmap_order>
+0.7
+
+> <szmap_probability>
+0.393
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -26.2440    2.5575  -37.2711 O   0  0  0  0  0  0
+  -25.8548    2.6497  -36.4015 H   0  0  0  0  0  0
+  -25.9482    3.3319  -37.7497 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+968
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.20
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+20
+
+> <szmap_neut_diff_free_energy>
+-6.511
+
+> <szmap_vdw>
+8.388
+
+> <szmap_order>
+0.7
+
+> <szmap_probability>
+0.301
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -13.2440  -10.9425  -29.7711 O   0  0  0  0  0  0
+  -13.6332  -10.8503  -30.6408 H   0  0  0  0  0  0
+  -13.5398  -10.1681  -29.2925 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+969
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.21
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+21
+
+> <szmap_neut_diff_free_energy>
+-6.416
+
+> <szmap_vdw>
+5.415
+
+> <szmap_order>
+0.804
+
+> <szmap_probability>
+0.68
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -16.2440   -8.9425  -25.2711 O   0  0  0  0  0  0
+  -17.1137   -8.5533  -25.3633 H   0  0  0  0  0  0
+  -15.7654   -8.6467  -26.0455 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+970
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.22
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+22
+
+> <szmap_neut_diff_free_energy>
+-6.259
+
+> <szmap_vdw>
+5.373
+
+> <szmap_order>
+0.725
+
+> <szmap_probability>
+0.418
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -16.2440   -8.9425  -25.2711 O   0  0  0  0  0  0
+  -15.8548   -8.8503  -26.1408 H   0  0  0  0  0  0
+  -15.9482   -8.1681  -24.7925 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+971
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.23
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+23
+
+> <szmap_neut_diff_free_energy>
+-6.259
+
+> <szmap_vdw>
+5.373
+
+> <szmap_order>
+0.725
+
+> <szmap_probability>
+0.209
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -12.2440  -10.4425  -28.2711 O   0  0  0  0  0  0
+  -11.7635   -9.8128  -27.7336 H   0  0  0  0  0  0
+  -13.0184   -9.9639  -28.5669 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+972
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.24
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+24
+
+> <szmap_neut_diff_free_energy>
+-6.173
+
+> <szmap_vdw>
+5.318
+
+> <szmap_order>
+0.794
+
+> <szmap_probability>
+0.643
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -17.2440   -9.4425  -26.2711 O   0  0  0  0  0  0
+  -16.6143   -8.9050  -26.7516 H   0  0  0  0  0  0
+  -16.7654   -9.7383  -25.4967 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+973
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.25
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+25
+
+> <szmap_neut_diff_free_energy>
+-6.103
+
+> <szmap_vdw>
+6.307
+
+> <szmap_order>
+0.722
+
+> <szmap_probability>
+0.171
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -17.2440   -9.4425  -26.2711 O   0  0  0  0  0  0
+  -16.3743   -9.0533  -26.3633 H   0  0  0  0  0  0
+  -17.7226   -9.1467  -27.0455 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+974
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.26
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+26
+
+> <szmap_neut_diff_free_energy>
+-6.103
+
+> <szmap_vdw>
+6.307
+
+> <szmap_order>
+0.722
+
+> <szmap_probability>
+0.165
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -17.2440   -9.4425  -26.2711 O   0  0  0  0  0  0
+  -17.1518  -10.3122  -26.6603 H   0  0  0  0  0  0
+  -16.4696   -8.9639  -26.5669 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+975
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.27
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+27
+
+> <szmap_neut_diff_free_energy>
+-6.103
+
+> <szmap_vdw>
+6.307
+
+> <szmap_order>
+0.722
+
+> <szmap_probability>
+0.13
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -17.2440   -9.4425  -26.2711 O   0  0  0  0  0  0
+  -17.7245   -8.8128  -25.7336 H   0  0  0  0  0  0
+  -16.4696   -8.9639  -26.5669 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+976
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.28
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+28
+
+> <szmap_neut_diff_free_energy>
+-6.103
+
+> <szmap_vdw>
+6.307
+
+> <szmap_order>
+0.722
+
+> <szmap_probability>
+0.119
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -17.2440   -7.4425  -25.7711 O   0  0  0  0  0  0
+  -16.6143   -6.9050  -25.2906 H   0  0  0  0  0  0
+  -16.7654   -7.7383  -26.5455 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+977
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.29
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+29
+
+> <szmap_neut_diff_free_energy>
+-6.083
+
+> <szmap_vdw>
+4.291
+
+> <szmap_order>
+0.718
+
+> <szmap_probability>
+0.414
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -17.2440   -7.4425  -25.7711 O   0  0  0  0  0  0
+  -16.7065   -7.9230  -26.4008 H   0  0  0  0  0  0
+  -17.5398   -6.6681  -26.2497 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+978
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.30
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+30
+
+> <szmap_neut_diff_free_energy>
+-6.083
+
+> <szmap_vdw>
+4.291
+
+> <szmap_order>
+0.718
+
+> <szmap_probability>
+0.249
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -14.7440  -10.4425  -26.7711 O   0  0  0  0  0  0
+  -15.6137  -10.0533  -26.8633 H   0  0  0  0  0  0
+  -14.2654  -10.1467  -27.5455 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+979
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.31
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+31
+
+> <szmap_neut_diff_free_energy>
+-5.792
+
+> <szmap_vdw>
+7.931
+
+> <szmap_order>
+0.646
+
+> <szmap_probability>
+0.826
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.7440   -4.9425  -29.2711 O   0  0  0  0  0  0
+  -20.1332   -5.0347  -28.4015 H   0  0  0  0  0  0
+  -20.0398   -5.7169  -29.7497 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+980
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.32
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+32
+
+> <szmap_neut_diff_free_energy>
+-5.792
+
+> <szmap_vdw>
+7.667
+
+> <szmap_order>
+0.402
+
+> <szmap_probability>
+0.195
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.7440   -4.9425  -29.2711 O   0  0  0  0  0  0
+  -20.3737   -5.4800  -29.7516 H   0  0  0  0  0  0
+  -20.2226   -4.6467  -28.4967 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+981
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.33
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+33
+
+> <szmap_neut_diff_free_energy>
+-5.792
+
+> <szmap_vdw>
+7.667
+
+> <szmap_order>
+0.402
+
+> <szmap_probability>
+0.178
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.7440   -4.9425  -29.2711 O   0  0  0  0  0  0
+  -20.6706   -4.7025  -29.2711 H   0  0  0  0  0  0
+  -19.7440   -5.8997  -29.2711 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+982
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.34
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+34
+
+> <szmap_neut_diff_free_energy>
+-5.792
+
+> <szmap_vdw>
+7.667
+
+> <szmap_order>
+0.402
+
+> <szmap_probability>
+0.176
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -21.2440   -3.9425  -22.7711 O   0  0  0  0  0  0
+  -22.1137   -3.5533  -22.8633 H   0  0  0  0  0  0
+  -20.7654   -3.6467  -23.5455 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+983
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.35
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+35
+
+> <szmap_neut_diff_free_energy>
+-5.684
+
+> <szmap_vdw>
+6.999
+
+> <szmap_order>
+0.524
+
+> <szmap_probability>
+0.544
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -30.7440   -6.9425  -21.7711 O   0  0  0  0  0  0
+  -30.1143   -7.4800  -22.2516 H   0  0  0  0  0  0
+  -30.2654   -6.6467  -20.9967 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+984
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.36
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+36
+
+> <szmap_neut_diff_free_energy>
+-5.605
+
+> <szmap_vdw>
+7.248
+
+> <szmap_order>
+0.475
+
+> <szmap_probability>
+0.287
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -30.7440   -6.9425  -21.7711 O   0  0  0  0  0  0
+  -30.3548   -6.8503  -20.9015 H   0  0  0  0  0  0
+  -30.4482   -6.1681  -22.2497 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+985
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.37
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+37
+
+> <szmap_neut_diff_free_energy>
+-5.605
+
+> <szmap_vdw>
+7.248
+
+> <szmap_order>
+0.475
+
+> <szmap_probability>
+0.274
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -16.2440  -10.4425  -27.2711 O   0  0  0  0  0  0
+  -15.3174  -10.6825  -27.2711 H   0  0  0  0  0  0
+  -16.2440   -9.4853  -27.2711 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+986
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.38
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+38
+
+> <szmap_neut_diff_free_energy>
+-5.296
+
+> <szmap_vdw>
+7.443
+
+> <szmap_order>
+0.898
+
+> <szmap_probability>
+0.602
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -18.2440   -9.9425  -21.2711 O   0  0  0  0  0  0
+  -18.7245  -10.5722  -20.7336 H   0  0  0  0  0  0
+  -17.4696  -10.4211  -21.5669 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+987
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.39
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+39
+
+> <szmap_neut_diff_free_energy>
+-5.295
+
+> <szmap_vdw>
+4.273
+
+> <szmap_order>
+0.365
+
+> <szmap_probability>
+0.2
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -18.2440   -9.9425  -21.2711 O   0  0  0  0  0  0
+  -17.7635  -10.5722  -21.8086 H   0  0  0  0  0  0
+  -19.0184  -10.4211  -20.9753 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+988
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.40
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+40
+
+> <szmap_neut_diff_free_energy>
+-5.295
+
+> <szmap_vdw>
+4.273
+
+> <szmap_order>
+0.365
+
+> <szmap_probability>
+0.158
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -18.2440   -9.9425  -21.2711 O   0  0  0  0  0  0
+  -18.6332  -10.0347  -20.4015 H   0  0  0  0  0  0
+  -18.5398  -10.7169  -21.7497 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+989
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.41
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+41
+
+> <szmap_neut_diff_free_energy>
+-5.295
+
+> <szmap_vdw>
+4.273
+
+> <szmap_order>
+0.365
+
+> <szmap_probability>
+0.11
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -18.2440   -9.9425  -21.2711 O   0  0  0  0  0  0
+  -18.7245  -10.5722  -21.8086 H   0  0  0  0  0  0
+  -17.4696  -10.4211  -20.9753 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+990
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.42
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+42
+
+> <szmap_neut_diff_free_energy>
+-5.295
+
+> <szmap_vdw>
+4.273
+
+> <szmap_order>
+0.365
+
+> <szmap_probability>
+0.102
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -12.7440   -3.4425  -18.7711 O   0  0  0  0  0  0
+  -12.1143   -3.9800  -18.2906 H   0  0  0  0  0  0
+  -12.2654   -3.1467  -19.5455 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+991
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.43
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+43
+
+> <szmap_neut_diff_free_energy>
+-5.08
+
+> <szmap_vdw>
+7.509
+
+> <szmap_order>
+0.574
+
+> <szmap_probability>
+0.65
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -22.7440  -10.9425  -37.2711 O   0  0  0  0  0  0
+  -23.6137  -11.3317  -37.3633 H   0  0  0  0  0  0
+  -22.2654  -11.2383  -38.0455 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+992
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.44
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+44
+
+> <szmap_neut_diff_free_energy>
+-4.948
+
+> <szmap_vdw>
+6.442
+
+> <szmap_order>
+0.304
+
+> <szmap_probability>
+0.117
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -22.7440  -10.9425  -37.2711 O   0  0  0  0  0  0
+  -21.8743  -11.3317  -37.3633 H   0  0  0  0  0  0
+  -23.2226  -11.2383  -38.0455 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+993
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.45
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+45
+
+> <szmap_neut_diff_free_energy>
+-4.948
+
+> <szmap_vdw>
+6.442
+
+> <szmap_order>
+0.304
+
+> <szmap_probability>
+0.115
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -22.7440  -10.9425  -37.2711 O   0  0  0  0  0  0
+  -22.7440  -11.8691  -37.0311 H   0  0  0  0  0  0
+  -22.7440  -10.9425  -38.2283 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+994
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.46
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+46
+
+> <szmap_neut_diff_free_energy>
+-4.948
+
+> <szmap_vdw>
+6.442
+
+> <szmap_order>
+0.304
+
+> <szmap_probability>
+0.102
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -22.7440  -10.9425  -37.2711 O   0  0  0  0  0  0
+  -22.2635  -11.5722  -37.8086 H   0  0  0  0  0  0
+  -23.5184  -11.4211  -36.9753 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+995
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.47
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+47
+
+> <szmap_neut_diff_free_energy>
+-4.948
+
+> <szmap_vdw>
+6.442
+
+> <szmap_order>
+0.304
+
+> <szmap_probability>
+0.101
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -22.7440  -10.9425  -37.2711 O   0  0  0  0  0  0
+  -22.3548  -11.0347  -38.1408 H   0  0  0  0  0  0
+  -22.4482  -11.7169  -36.7925 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+996
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.48
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+48
+
+> <szmap_neut_diff_free_energy>
+-4.948
+
+> <szmap_vdw>
+6.442
+
+> <szmap_order>
+0.304
+
+> <szmap_probability>
+0.1
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -18.2440   -7.9425  -27.2711 O   0  0  0  0  0  0
+  -17.3174   -8.1825  -27.2711 H   0  0  0  0  0  0
+  -18.2440   -6.9853  -27.2711 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+997
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.49
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+49
+
+> <szmap_neut_diff_free_energy>
+-4.94
+
+> <szmap_vdw>
+2.109
+
+> <szmap_order>
+0.677
+
+> <szmap_probability>
+0.339
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -18.2440   -7.9425  -27.2711 O   0  0  0  0  0  0
+  -18.4840   -7.9425  -28.1977 H   0  0  0  0  0  0
+  -17.2868   -7.9425  -27.2711 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+998
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.50
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+50
+
+> <szmap_neut_diff_free_energy>
+-4.94
+
+> <szmap_vdw>
+2.109
+
+> <szmap_order>
+0.677
+
+> <szmap_probability>
+0.298
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -25.7440   -8.9425  -21.2711 O   0  0  0  0  0  0
+  -26.3737   -9.4800  -21.7516 H   0  0  0  0  0  0
+  -26.2226   -8.6467  -20.4967 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+999
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.51
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+51
+
+> <szmap_neut_diff_free_energy>
+-4.783
+
+> <szmap_vdw>
+5.824
+
+> <szmap_order>
+0.281
+
+> <szmap_probability>
+0.131
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -25.7440   -8.9425  -21.2711 O   0  0  0  0  0  0
+  -26.3737   -8.4050  -21.7516 H   0  0  0  0  0  0
+  -26.2226   -9.2383  -20.4967 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1000
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.52
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+52
+
+> <szmap_neut_diff_free_energy>
+-4.783
+
+> <szmap_vdw>
+5.824
+
+> <szmap_order>
+0.281
+
+> <szmap_probability>
+0.121
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -25.7440   -8.9425  -21.2711 O   0  0  0  0  0  0
+  -26.3737   -8.4050  -20.7906 H   0  0  0  0  0  0
+  -26.2226   -9.2383  -22.0455 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1001
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.53
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+53
+
+> <szmap_neut_diff_free_energy>
+-4.783
+
+> <szmap_vdw>
+5.824
+
+> <szmap_order>
+0.281
+
+> <szmap_probability>
+0.11
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -25.7440   -8.9425  -21.2711 O   0  0  0  0  0  0
+  -26.3737   -9.4800  -20.7906 H   0  0  0  0  0  0
+  -26.2226   -8.6467  -22.0455 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1002
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.54
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+54
+
+> <szmap_neut_diff_free_energy>
+-4.783
+
+> <szmap_vdw>
+5.824
+
+> <szmap_order>
+0.281
+
+> <szmap_probability>
+0.102
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -25.7440   -8.9425  -21.2711 O   0  0  0  0  0  0
+  -26.1332   -9.0347  -20.4015 H   0  0  0  0  0  0
+  -26.0398   -9.7169  -21.7497 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1003
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.55
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+55
+
+> <szmap_neut_diff_free_energy>
+-4.783
+
+> <szmap_vdw>
+5.824
+
+> <szmap_order>
+0.281
+
+> <szmap_probability>
+0.096
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -22.7440  -10.9425  -19.7711 O   0  0  0  0  0  0
+  -21.8743  -11.3317  -19.6789 H   0  0  0  0  0  0
+  -23.2226  -11.2383  -18.9967 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1004
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.56
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+56
+
+> <szmap_neut_diff_free_energy>
+-4.616
+
+> <szmap_vdw>
+5.365
+
+> <szmap_order>
+0.301
+
+> <szmap_probability>
+0.146
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -22.7440  -10.9425  -19.7711 O   0  0  0  0  0  0
+  -22.7440  -11.8691  -20.0111 H   0  0  0  0  0  0
+  -22.7440  -10.9425  -18.8139 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1005
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.57
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+57
+
+> <szmap_neut_diff_free_energy>
+-4.616
+
+> <szmap_vdw>
+5.365
+
+> <szmap_order>
+0.301
+
+> <szmap_probability>
+0.128
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -22.7440  -10.9425  -19.7711 O   0  0  0  0  0  0
+  -23.6137  -11.3317  -19.6789 H   0  0  0  0  0  0
+  -22.2654  -11.2383  -18.9967 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1006
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.58
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+58
+
+> <szmap_neut_diff_free_energy>
+-4.616
+
+> <szmap_vdw>
+5.365
+
+> <szmap_order>
+0.301
+
+> <szmap_probability>
+0.126
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -22.7440  -10.9425  -19.7711 O   0  0  0  0  0  0
+  -22.3548  -11.0347  -18.9015 H   0  0  0  0  0  0
+  -22.4482  -11.7169  -20.2497 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1007
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.59
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+59
+
+> <szmap_neut_diff_free_energy>
+-4.616
+
+> <szmap_vdw>
+5.365
+
+> <szmap_order>
+0.301
+
+> <szmap_probability>
+0.096
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -22.7440  -10.9425  -19.7711 O   0  0  0  0  0  0
+  -23.2245  -11.5722  -19.2336 H   0  0  0  0  0  0
+  -21.9696  -11.4211  -20.0669 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1008
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.60
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+60
+
+> <szmap_neut_diff_free_energy>
+-4.616
+
+> <szmap_vdw>
+5.365
+
+> <szmap_order>
+0.301
+
+> <szmap_probability>
+0.093
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -27.2440   -6.4425  -39.7711 O   0  0  0  0  0  0
+  -26.7065   -6.9230  -39.1414 H   0  0  0  0  0  0
+  -27.5398   -5.6681  -39.2925 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1009
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.61
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+61
+
+> <szmap_neut_diff_free_energy>
+-4.444
+
+> <szmap_vdw>
+5.798
+
+> <szmap_order>
+0.986
+
+> <szmap_probability>
+0.94
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -30.2440    1.0575  -38.7711 O   0  0  0  0  0  0
+  -30.6332    0.9653  -37.9015 H   0  0  0  0  0  0
+  -30.5398    0.2831  -39.2497 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1010
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.62
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+62
+
+> <szmap_neut_diff_free_energy>
+-4.074
+
+> <szmap_vdw>
+7.696
+
+> <szmap_order>
+0.983
+
+> <szmap_probability>
+0.862
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -12.2440   -8.4425  -27.2711 O   0  0  0  0  0  0
+  -12.7815   -8.9230  -27.9008 H   0  0  0  0  0  0
+  -11.9482   -7.6681  -27.7497 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1011
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.63
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+63
+
+> <szmap_neut_diff_free_energy>
+-4.036
+
+> <szmap_vdw>
+5.425
+
+> <szmap_order>
+0.791
+
+> <szmap_probability>
+0.875
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -22.7440   -1.9425  -29.2711 O   0  0  0  0  0  0
+  -22.2635   -1.3128  -28.7336 H   0  0  0  0  0  0
+  -23.5184   -1.4639  -29.5669 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1012
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.64
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+64
+
+> <szmap_neut_diff_free_energy>
+-3.941
+
+> <szmap_vdw>
+4.439
+
+> <szmap_order>
+0.901
+
+> <szmap_probability>
+0.314
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -22.7440   -1.9425  -29.2711 O   0  0  0  0  0  0
+  -23.6137   -1.5533  -29.1789 H   0  0  0  0  0  0
+  -22.2654   -1.6467  -28.4967 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1013
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.65
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+65
+
+> <szmap_neut_diff_free_energy>
+-3.941
+
+> <szmap_vdw>
+4.439
+
+> <szmap_order>
+0.901
+
+> <szmap_probability>
+0.196
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -18.2440   -6.9425  -38.2711 O   0  0  0  0  0  0
+  -17.3743   -6.5533  -38.1789 H   0  0  0  0  0  0
+  -18.7226   -6.6467  -37.4967 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1014
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.66
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+66
+
+> <szmap_neut_diff_free_energy>
+-3.521
+
+> <szmap_vdw>
+5.882
+
+> <szmap_order>
+0.589
+
+> <szmap_probability>
+0.443
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -18.2440   -6.9425  -38.2711 O   0  0  0  0  0  0
+  -17.3174   -6.7025  -38.2711 H   0  0  0  0  0  0
+  -18.2440   -7.8997  -38.2711 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1015
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.67
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+67
+
+> <szmap_neut_diff_free_energy>
+-3.521
+
+> <szmap_vdw>
+5.882
+
+> <szmap_order>
+0.589
+
+> <szmap_probability>
+0.228
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -17.7440   -3.4425  -25.7711 O   0  0  0  0  0  0
+  -17.3548   -3.3503  -24.9015 H   0  0  0  0  0  0
+  -17.4482   -2.6681  -26.2497 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1016
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.68
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+68
+
+> <szmap_neut_diff_free_energy>
+-3.442
+
+> <szmap_vdw>
+4.675
+
+> <szmap_order>
+0.676
+
+> <szmap_probability>
+0.307
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -17.7440   -3.4425  -25.7711 O   0  0  0  0  0  0
+  -17.1143   -2.9050  -26.2516 H   0  0  0  0  0  0
+  -17.2654   -3.7383  -24.9967 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1017
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.69
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+69
+
+> <szmap_neut_diff_free_energy>
+-3.442
+
+> <szmap_vdw>
+4.675
+
+> <szmap_order>
+0.676
+
+> <szmap_probability>
+0.188
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -17.7440   -3.4425  -25.7711 O   0  0  0  0  0  0
+  -18.2245   -2.8128  -25.2336 H   0  0  0  0  0  0
+  -16.9696   -2.9639  -26.0669 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1018
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.70
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+70
+
+> <szmap_neut_diff_free_energy>
+-3.442
+
+> <szmap_vdw>
+4.675
+
+> <szmap_order>
+0.676
+
+> <szmap_probability>
+0.167
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.7440   -8.9425  -36.7711 O   0  0  0  0  0  0
+  -19.6518   -8.0728  -37.1603 H   0  0  0  0  0  0
+  -18.9696   -9.4211  -37.0669 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1019
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.71
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+71
+
+> <szmap_neut_diff_free_energy>
+-3.285
+
+> <szmap_vdw>
+4.465
+
+> <szmap_order>
+0.234
+
+> <szmap_probability>
+0.14
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.7440   -8.9425  -36.7711 O   0  0  0  0  0  0
+  -19.1143   -9.4800  -36.2906 H   0  0  0  0  0  0
+  -19.2654   -8.6467  -37.5455 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1020
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.72
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+72
+
+> <szmap_neut_diff_free_energy>
+-3.285
+
+> <szmap_vdw>
+4.465
+
+> <szmap_order>
+0.234
+
+> <szmap_probability>
+0.118
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.7440   -8.9425  -36.7711 O   0  0  0  0  0  0
+  -19.6518   -9.8122  -37.1603 H   0  0  0  0  0  0
+  -18.9696   -8.4639  -37.0669 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1021
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.73
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+73
+
+> <szmap_neut_diff_free_energy>
+-3.285
+
+> <szmap_vdw>
+4.465
+
+> <szmap_order>
+0.234
+
+> <szmap_probability>
+0.117
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.7440   -8.9425  -36.7711 O   0  0  0  0  0  0
+  -19.9840   -8.9425  -37.6977 H   0  0  0  0  0  0
+  -18.7868   -8.9425  -36.7711 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1022
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.74
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+74
+
+> <szmap_neut_diff_free_energy>
+-3.285
+
+> <szmap_vdw>
+4.465
+
+> <szmap_order>
+0.234
+
+> <szmap_probability>
+0.094
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.7440   -8.9425  -36.7711 O   0  0  0  0  0  0
+  -19.1143   -8.4050  -36.2906 H   0  0  0  0  0  0
+  -19.2654   -9.2383  -37.5455 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1023
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.75
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+75
+
+> <szmap_neut_diff_free_energy>
+-3.285
+
+> <szmap_vdw>
+4.465
+
+> <szmap_order>
+0.234
+
+> <szmap_probability>
+0.083
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.7440   -8.4425  -35.2711 O   0  0  0  0  0  0
+  -19.2065   -8.9230  -34.6414 H   0  0  0  0  0  0
+  -20.0398   -7.6681  -34.7925 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1024
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.76
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+76
+
+> <szmap_neut_diff_free_energy>
+-3.222
+
+> <szmap_vdw>
+4.859
+
+> <szmap_order>
+0.34
+
+> <szmap_probability>
+0.228
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.7440   -8.4425  -35.2711 O   0  0  0  0  0  0
+  -19.6518   -7.5728  -34.8820 H   0  0  0  0  0  0
+  -18.9696   -8.9211  -34.9753 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1025
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.77
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+77
+
+> <szmap_neut_diff_free_energy>
+-3.222
+
+> <szmap_vdw>
+4.859
+
+> <szmap_order>
+0.34
+
+> <szmap_probability>
+0.128
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.7440   -8.4425  -35.2711 O   0  0  0  0  0  0
+  -19.7440   -7.5159  -35.5111 H   0  0  0  0  0  0
+  -19.7440   -8.4425  -34.3139 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1026
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.78
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+78
+
+> <szmap_neut_diff_free_energy>
+-3.222
+
+> <szmap_vdw>
+4.859
+
+> <szmap_order>
+0.34
+
+> <szmap_probability>
+0.083
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.7440   -8.4425  -35.2711 O   0  0  0  0  0  0
+  -20.2245   -7.8128  -34.7336 H   0  0  0  0  0  0
+  -18.9696   -7.9639  -35.5669 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1027
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.79
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+79
+
+> <szmap_neut_diff_free_energy>
+-3.222
+
+> <szmap_vdw>
+4.859
+
+> <szmap_order>
+0.34
+
+> <szmap_probability>
+0.082
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -12.2440    2.5575  -30.7711 O   0  0  0  0  0  0
+  -12.7815    3.0380  -31.4008 H   0  0  0  0  0  0
+  -11.9482    1.7831  -31.2497 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1028
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.80
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+80
+
+> <szmap_neut_diff_free_energy>
+-3.177
+
+> <szmap_vdw>
+5.019
+
+> <szmap_order>
+0.877
+
+> <szmap_probability>
+0.319
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -12.2440    2.5575  -30.7711 O   0  0  0  0  0  0
+  -11.7065    2.0770  -31.4008 H   0  0  0  0  0  0
+  -12.5398    3.3319  -31.2497 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1029
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.81
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+81
+
+> <szmap_neut_diff_free_energy>
+-3.177
+
+> <szmap_vdw>
+5.019
+
+> <szmap_order>
+0.877
+
+> <szmap_probability>
+0.275
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -29.7440   -8.4425  -33.2711 O   0  0  0  0  0  0
+  -30.6137   -8.8317  -33.1789 H   0  0  0  0  0  0
+  -29.2654   -8.7383  -32.4967 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1030
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.82
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+82
+
+> <szmap_neut_diff_free_energy>
+-3.124
+
+> <szmap_vdw>
+5.421
+
+> <szmap_order>
+0.669
+
+> <szmap_probability>
+0.417
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -29.7440   -8.4425  -33.2711 O   0  0  0  0  0  0
+  -29.2635   -9.0722  -33.8086 H   0  0  0  0  0  0
+  -30.5184   -8.9211  -32.9753 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1031
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.83
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+83
+
+> <szmap_neut_diff_free_energy>
+-3.124
+
+> <szmap_vdw>
+5.421
+
+> <szmap_order>
+0.669
+
+> <szmap_probability>
+0.334
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -27.7440   -9.4425  -30.2711 O   0  0  0  0  0  0
+  -28.6137   -9.0533  -30.1789 H   0  0  0  0  0  0
+  -27.2654   -9.1467  -29.4967 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1032
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.84
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+84
+
+> <szmap_neut_diff_free_energy>
+-2.481
+
+> <szmap_vdw>
+4.304
+
+> <szmap_order>
+0.608
+
+> <szmap_probability>
+0.152
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -27.7440   -9.4425  -30.2711 O   0  0  0  0  0  0
+  -28.3737   -8.9050  -29.7906 H   0  0  0  0  0  0
+  -28.2226   -9.7383  -31.0455 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1033
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.85
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+85
+
+> <szmap_neut_diff_free_energy>
+-2.481
+
+> <szmap_vdw>
+4.304
+
+> <szmap_order>
+0.608
+
+> <szmap_probability>
+0.138
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -27.7440   -9.4425  -30.2711 O   0  0  0  0  0  0
+  -27.8362  -10.3122  -29.8820 H   0  0  0  0  0  0
+  -28.5184   -8.9639  -29.9753 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1034
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.86
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+86
+
+> <szmap_neut_diff_free_energy>
+-2.481
+
+> <szmap_vdw>
+4.304
+
+> <szmap_order>
+0.608
+
+> <szmap_probability>
+0.105
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -27.7440   -9.4425  -30.2711 O   0  0  0  0  0  0
+  -28.3737   -9.9800  -30.7516 H   0  0  0  0  0  0
+  -28.2226   -9.1467  -29.4967 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1035
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.87
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+87
+
+> <szmap_neut_diff_free_energy>
+-2.481
+
+> <szmap_vdw>
+4.304
+
+> <szmap_order>
+0.608
+
+> <szmap_probability>
+0.086
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -27.7440   -9.4425  -30.2711 O   0  0  0  0  0  0
+  -27.8362   -8.5728  -29.8820 H   0  0  0  0  0  0
+  -28.5184   -9.9211  -29.9753 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1036
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.88
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+88
+
+> <szmap_neut_diff_free_energy>
+-2.481
+
+> <szmap_vdw>
+4.304
+
+> <szmap_order>
+0.608
+
+> <szmap_probability>
+0.081
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -21.7440   -6.4425  -32.2711 O   0  0  0  0  0  0
+  -20.8743   -6.8317  -32.3633 H   0  0  0  0  0  0
+  -22.2226   -6.7383  -33.0455 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1037
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.89
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+89
+
+> <szmap_neut_diff_free_energy>
+-2.381
+
+> <szmap_vdw>
+3.414
+
+> <szmap_order>
+0.578
+
+> <szmap_probability>
+0.199
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -21.7440   -6.4425  -32.2711 O   0  0  0  0  0  0
+  -22.2815   -6.9230  -32.9008 H   0  0  0  0  0  0
+  -21.4482   -5.6681  -32.7497 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1038
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.90
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+90
+
+> <szmap_neut_diff_free_energy>
+-2.381
+
+> <szmap_vdw>
+3.414
+
+> <szmap_order>
+0.578
+
+> <szmap_probability>
+0.154
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -21.7440   -6.4425  -32.2711 O   0  0  0  0  0  0
+  -22.1332   -6.5347  -33.1408 H   0  0  0  0  0  0
+  -22.0398   -7.2169  -31.7925 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1039
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.91
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+91
+
+> <szmap_neut_diff_free_energy>
+-2.381
+
+> <szmap_vdw>
+3.414
+
+> <szmap_order>
+0.578
+
+> <szmap_probability>
+0.123
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -21.7440   -6.4425  -32.2711 O   0  0  0  0  0  0
+  -22.3737   -5.9050  -31.7906 H   0  0  0  0  0  0
+  -22.2226   -6.7383  -33.0455 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1040
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.92
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+92
+
+> <szmap_neut_diff_free_energy>
+-2.381
+
+> <szmap_vdw>
+3.414
+
+> <szmap_order>
+0.578
+
+> <szmap_probability>
+0.107
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.2440   -7.4425  -32.2711 O   0  0  0  0  0  0
+  -18.3174   -7.6825  -32.2711 H   0  0  0  0  0  0
+  -19.2440   -6.4853  -32.2711 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1041
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.93
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+93
+
+> <szmap_neut_diff_free_energy>
+-2.361
+
+> <szmap_vdw>
+4.228
+
+> <szmap_order>
+0.607
+
+> <szmap_probability>
+0.144
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.2440   -7.4425  -32.2711 O   0  0  0  0  0  0
+  -19.7245   -6.8128  -32.8086 H   0  0  0  0  0  0
+  -18.4696   -6.9639  -31.9753 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1042
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.94
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+94
+
+> <szmap_neut_diff_free_energy>
+-2.361
+
+> <szmap_vdw>
+4.228
+
+> <szmap_order>
+0.607
+
+> <szmap_probability>
+0.124
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.2440   -7.4425  -32.2711 O   0  0  0  0  0  0
+  -19.7245   -6.8128  -31.7336 H   0  0  0  0  0  0
+  -18.4696   -6.9639  -32.5669 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1043
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.95
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+95
+
+> <szmap_neut_diff_free_energy>
+-2.361
+
+> <szmap_vdw>
+4.228
+
+> <szmap_order>
+0.607
+
+> <szmap_probability>
+0.102
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.2440   -7.4425  -32.2711 O   0  0  0  0  0  0
+  -18.3743   -7.0533  -32.1789 H   0  0  0  0  0  0
+  -19.7226   -7.1467  -31.4967 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1044
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.96
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+96
+
+> <szmap_neut_diff_free_energy>
+-2.361
+
+> <szmap_vdw>
+4.228
+
+> <szmap_order>
+0.607
+
+> <szmap_probability>
+0.097
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.2440   -7.4425  -32.2711 O   0  0  0  0  0  0
+  -18.6143   -6.9050  -31.7906 H   0  0  0  0  0  0
+  -18.7654   -7.7383  -33.0455 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1045
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.97
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+97
+
+> <szmap_neut_diff_free_energy>
+-2.361
+
+> <szmap_vdw>
+4.228
+
+> <szmap_order>
+0.607
+
+> <szmap_probability>
+0.083
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -29.2440   -6.9425  -18.7711 O   0  0  0  0  0  0
+  -29.8737   -6.4050  -19.2516 H   0  0  0  0  0  0
+  -29.7226   -7.2383  -17.9967 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1046
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.98
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+98
+
+> <szmap_neut_diff_free_energy>
+-2.318
+
+> <szmap_vdw>
+3.755
+
+> <szmap_order>
+0.589
+
+> <szmap_probability>
+0.112
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -29.2440   -6.9425  -18.7711 O   0  0  0  0  0  0
+  -30.1137   -6.5533  -18.8633 H   0  0  0  0  0  0
+  -28.7654   -6.6467  -19.5455 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1047
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.99
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+99
+
+> <szmap_neut_diff_free_energy>
+-2.318
+
+> <szmap_vdw>
+3.755
+
+> <szmap_order>
+0.589
+
+> <szmap_probability>
+0.109
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -29.2440   -6.9425  -18.7711 O   0  0  0  0  0  0
+  -28.7635   -6.3128  -18.2336 H   0  0  0  0  0  0
+  -30.0184   -6.4639  -19.0669 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1048
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.100
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+100
+
+> <szmap_neut_diff_free_energy>
+-2.318
+
+> <szmap_vdw>
+3.755
+
+> <szmap_order>
+0.589
+
+> <szmap_probability>
+0.107
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -29.2440   -6.9425  -18.7711 O   0  0  0  0  0  0
+  -29.3362   -6.0728  -19.1603 H   0  0  0  0  0  0
+  -30.0184   -7.4211  -19.0669 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1049
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.101
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+101
+
+> <szmap_neut_diff_free_energy>
+-2.318
+
+> <szmap_vdw>
+3.755
+
+> <szmap_order>
+0.589
+
+> <szmap_probability>
+0.104
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -29.2440   -6.9425  -18.7711 O   0  0  0  0  0  0
+  -29.6332   -6.8503  -17.9015 H   0  0  0  0  0  0
+  -29.5398   -6.1681  -19.2497 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1050
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.102
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+102
+
+> <szmap_neut_diff_free_energy>
+-2.318
+
+> <szmap_vdw>
+3.755
+
+> <szmap_order>
+0.589
+
+> <szmap_probability>
+0.102
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -21.2440   -5.4425  -33.2711 O   0  0  0  0  0  0
+  -21.3362   -6.3122  -33.6603 H   0  0  0  0  0  0
+  -22.0184   -4.9639  -33.5669 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1051
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.103
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+103
+
+> <szmap_neut_diff_free_energy>
+-2.299
+
+> <szmap_vdw>
+3.055
+
+> <szmap_order>
+0.564
+
+> <szmap_probability>
+0.15
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -21.2440   -5.4425  -33.2711 O   0  0  0  0  0  0
+  -21.7245   -6.0722  -33.8086 H   0  0  0  0  0  0
+  -20.4696   -5.9211  -32.9753 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1052
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.104
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+104
+
+> <szmap_neut_diff_free_energy>
+-2.299
+
+> <szmap_vdw>
+3.055
+
+> <szmap_order>
+0.564
+
+> <szmap_probability>
+0.1
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -21.2440   -5.4425  -33.2711 O   0  0  0  0  0  0
+  -21.8737   -5.9800  -33.7516 H   0  0  0  0  0  0
+  -21.7226   -5.1467  -32.4967 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1053
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.105
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+105
+
+> <szmap_neut_diff_free_energy>
+-2.299
+
+> <szmap_vdw>
+3.055
+
+> <szmap_order>
+0.564
+
+> <szmap_probability>
+0.09
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -21.2440   -5.4425  -33.2711 O   0  0  0  0  0  0
+  -21.7815   -5.9230  -33.9008 H   0  0  0  0  0  0
+  -20.9482   -4.6681  -33.7497 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1054
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.106
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+106
+
+> <szmap_neut_diff_free_energy>
+-2.299
+
+> <szmap_vdw>
+3.055
+
+> <szmap_order>
+0.564
+
+> <szmap_probability>
+0.09
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -21.2440   -5.4425  -33.2711 O   0  0  0  0  0  0
+  -21.6332   -5.5347  -32.4015 H   0  0  0  0  0  0
+  -21.5398   -6.2169  -33.7497 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1055
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.107
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+107
+
+> <szmap_neut_diff_free_energy>
+-2.299
+
+> <szmap_vdw>
+3.055
+
+> <szmap_order>
+0.564
+
+> <szmap_probability>
+0.086
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -13.2440   -8.9425  -23.7711 O   0  0  0  0  0  0
+  -13.6332   -8.8503  -24.6408 H   0  0  0  0  0  0
+  -13.5398   -8.1681  -23.2925 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1056
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.108
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+108
+
+> <szmap_neut_diff_free_energy>
+-2.293
+
+> <szmap_vdw>
+2.672
+
+> <szmap_order>
+0.63
+
+> <szmap_probability>
+0.36
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -13.2440   -8.9425  -23.7711 O   0  0  0  0  0  0
+  -12.7065   -9.4230  -23.1414 H   0  0  0  0  0  0
+  -13.5398   -8.1681  -23.2925 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1057
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.109
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+109
+
+> <szmap_neut_diff_free_energy>
+-2.293
+
+> <szmap_vdw>
+2.672
+
+> <szmap_order>
+0.63
+
+> <szmap_probability>
+0.175
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -31.2440   -9.9425  -22.7711 O   0  0  0  0  0  0
+  -32.1137   -9.5533  -22.8633 H   0  0  0  0  0  0
+  -30.7654   -9.6467  -23.5455 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1058
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.110
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+110
+
+> <szmap_neut_diff_free_energy>
+-2.279
+
+> <szmap_vdw>
+3.508
+
+> <szmap_order>
+0.531
+
+> <szmap_probability>
+0.139
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -31.2440   -9.9425  -22.7711 O   0  0  0  0  0  0
+  -31.7815  -10.4230  -23.4008 H   0  0  0  0  0  0
+  -30.9482   -9.1681  -23.2497 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1059
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.111
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+111
+
+> <szmap_neut_diff_free_energy>
+-2.279
+
+> <szmap_vdw>
+3.508
+
+> <szmap_order>
+0.531
+
+> <szmap_probability>
+0.133
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -31.2440   -9.9425  -22.7711 O   0  0  0  0  0  0
+  -30.7065   -9.4620  -23.4008 H   0  0  0  0  0  0
+  -31.5398  -10.7169  -23.2497 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1060
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.112
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+112
+
+> <szmap_neut_diff_free_energy>
+-2.279
+
+> <szmap_vdw>
+3.508
+
+> <szmap_order>
+0.531
+
+> <szmap_probability>
+0.129
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -31.2440   -9.9425  -22.7711 O   0  0  0  0  0  0
+  -30.8548   -9.8503  -23.6408 H   0  0  0  0  0  0
+  -30.9482   -9.1681  -22.2925 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1061
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.113
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+113
+
+> <szmap_neut_diff_free_energy>
+-2.279
+
+> <szmap_vdw>
+3.508
+
+> <szmap_order>
+0.531
+
+> <szmap_probability>
+0.095
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -31.2440   -9.9425  -22.7711 O   0  0  0  0  0  0
+  -30.7635   -9.3128  -23.3086 H   0  0  0  0  0  0
+  -32.0184   -9.4639  -22.4753 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1062
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.114
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+114
+
+> <szmap_neut_diff_free_energy>
+-2.279
+
+> <szmap_vdw>
+3.508
+
+> <szmap_order>
+0.531
+
+> <szmap_probability>
+0.094
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -27.2440   -8.4425  -29.2711 O   0  0  0  0  0  0
+  -28.1706   -8.6825  -29.2711 H   0  0  0  0  0  0
+  -27.2440   -7.4853  -29.2711 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1063
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.115
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+115
+
+> <szmap_neut_diff_free_energy>
+-2.23
+
+> <szmap_vdw>
+3.326
+
+> <szmap_order>
+0.678
+
+> <szmap_probability>
+0.242
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -27.2440   -8.4425  -29.2711 O   0  0  0  0  0  0
+  -27.0040   -8.4425  -30.1977 H   0  0  0  0  0  0
+  -28.2012   -8.4425  -29.2711 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1064
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.116
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+116
+
+> <szmap_neut_diff_free_energy>
+-2.23
+
+> <szmap_vdw>
+3.326
+
+> <szmap_order>
+0.678
+
+> <szmap_probability>
+0.221
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -27.2440   -8.4425  -29.2711 O   0  0  0  0  0  0
+  -27.0040   -8.4425  -28.3445 H   0  0  0  0  0  0
+  -28.2012   -8.4425  -29.2711 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1065
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.117
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+117
+
+> <szmap_neut_diff_free_energy>
+-2.23
+
+> <szmap_vdw>
+3.326
+
+> <szmap_order>
+0.678
+
+> <szmap_probability>
+0.16
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -28.7440   -9.4425  -31.2711 O   0  0  0  0  0  0
+  -29.2815   -8.9620  -30.6414 H   0  0  0  0  0  0
+  -28.4482  -10.2169  -30.7925 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1066
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.118
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+118
+
+> <szmap_neut_diff_free_energy>
+-2.21
+
+> <szmap_vdw>
+2.734
+
+> <szmap_order>
+0.619
+
+> <szmap_probability>
+0.183
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -28.7440   -9.4425  -31.2711 O   0  0  0  0  0  0
+  -27.8743   -9.0533  -31.1789 H   0  0  0  0  0  0
+  -29.2226   -9.1467  -30.4967 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1067
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.119
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+119
+
+> <szmap_neut_diff_free_energy>
+-2.21
+
+> <szmap_vdw>
+2.734
+
+> <szmap_order>
+0.619
+
+> <szmap_probability>
+0.134
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -28.7440   -9.4425  -31.2711 O   0  0  0  0  0  0
+  -29.3737   -9.9800  -31.7516 H   0  0  0  0  0  0
+  -29.2226   -9.1467  -30.4967 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1068
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.120
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+120
+
+> <szmap_neut_diff_free_energy>
+-2.21
+
+> <szmap_vdw>
+2.734
+
+> <szmap_order>
+0.619
+
+> <szmap_probability>
+0.131
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -28.7440   -9.4425  -31.2711 O   0  0  0  0  0  0
+  -29.1332   -9.3503  -30.4015 H   0  0  0  0  0  0
+  -29.0398   -8.6681  -31.7497 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1069
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.121
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+121
+
+> <szmap_neut_diff_free_energy>
+-2.21
+
+> <szmap_vdw>
+2.734
+
+> <szmap_order>
+0.619
+
+> <szmap_probability>
+0.111
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -23.7440   -5.9425  -24.2711 O   0  0  0  0  0  0
+  -24.6137   -6.3317  -24.1789 H   0  0  0  0  0  0
+  -23.2654   -6.2383  -23.4967 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1070
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.122
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+122
+
+> <szmap_neut_diff_free_energy>
+-2.103
+
+> <szmap_vdw>
+2.512
+
+> <szmap_order>
+0.567
+
+> <szmap_probability>
+0.146
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -23.7440   -5.9425  -24.2711 O   0  0  0  0  0  0
+  -23.1143   -5.4050  -24.7516 H   0  0  0  0  0  0
+  -23.2654   -6.2383  -23.4967 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1071
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.123
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+123
+
+> <szmap_neut_diff_free_energy>
+-2.103
+
+> <szmap_vdw>
+2.512
+
+> <szmap_order>
+0.567
+
+> <szmap_probability>
+0.145
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -23.7440   -5.9425  -24.2711 O   0  0  0  0  0  0
+  -23.3548   -6.0347  -23.4015 H   0  0  0  0  0  0
+  -23.4482   -6.7169  -24.7497 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1072
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.124
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+124
+
+> <szmap_neut_diff_free_energy>
+-2.103
+
+> <szmap_vdw>
+2.512
+
+> <szmap_order>
+0.567
+
+> <szmap_probability>
+0.144
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -23.7440   -5.9425  -24.2711 O   0  0  0  0  0  0
+  -23.2065   -6.4230  -23.6414 H   0  0  0  0  0  0
+  -24.0398   -5.1681  -23.7925 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1073
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.125
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+125
+
+> <szmap_neut_diff_free_energy>
+-2.103
+
+> <szmap_vdw>
+2.512
+
+> <szmap_order>
+0.567
+
+> <szmap_probability>
+0.144
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -24.7440   -5.9425  -23.2711 O   0  0  0  0  0  0
+  -24.1143   -6.4800  -22.7906 H   0  0  0  0  0  0
+  -24.2654   -5.6467  -24.0455 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1074
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.126
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+126
+
+> <szmap_neut_diff_free_energy>
+-2.063
+
+> <szmap_vdw>
+2.49
+
+> <szmap_order>
+0.564
+
+> <szmap_probability>
+0.167
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -24.7440   -5.9425  -23.2711 O   0  0  0  0  0  0
+  -24.6518   -5.0728  -22.8820 H   0  0  0  0  0  0
+  -23.9696   -6.4211  -22.9753 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1075
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.127
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+127
+
+> <szmap_neut_diff_free_energy>
+-2.063
+
+> <szmap_vdw>
+2.49
+
+> <szmap_order>
+0.564
+
+> <szmap_probability>
+0.147
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -24.7440   -5.9425  -23.2711 O   0  0  0  0  0  0
+  -23.8743   -6.3317  -23.1789 H   0  0  0  0  0  0
+  -25.2226   -6.2383  -22.4967 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1076
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.128
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+128
+
+> <szmap_neut_diff_free_energy>
+-2.063
+
+> <szmap_vdw>
+2.49
+
+> <szmap_order>
+0.564
+
+> <szmap_probability>
+0.129
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -24.7440   -5.9425  -23.2711 O   0  0  0  0  0  0
+  -25.2245   -6.5722  -23.8086 H   0  0  0  0  0  0
+  -23.9696   -6.4211  -22.9753 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1077
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.129
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+129
+
+> <szmap_neut_diff_free_energy>
+-2.063
+
+> <szmap_vdw>
+2.49
+
+> <szmap_order>
+0.564
+
+> <szmap_probability>
+0.124
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.7440   -5.9425  -32.7711 O   0  0  0  0  0  0
+  -19.9840   -5.9425  -31.8445 H   0  0  0  0  0  0
+  -18.7868   -5.9425  -32.7711 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1078
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.130
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+130
+
+> <szmap_neut_diff_free_energy>
+-2.039
+
+> <szmap_vdw>
+3.249
+
+> <szmap_order>
+0.579
+
+> <szmap_probability>
+0.251
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.7440   -5.9425  -32.7711 O   0  0  0  0  0  0
+  -19.6518   -6.8122  -32.3820 H   0  0  0  0  0  0
+  -18.9696   -5.4639  -32.4753 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1079
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.131
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+131
+
+> <szmap_neut_diff_free_energy>
+-2.039
+
+> <szmap_vdw>
+3.249
+
+> <szmap_order>
+0.579
+
+> <szmap_probability>
+0.099
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.7440   -5.9425  -32.7711 O   0  0  0  0  0  0
+  -18.8174   -5.7025  -32.7711 H   0  0  0  0  0  0
+  -19.7440   -6.8997  -32.7711 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1080
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.132
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+132
+
+> <szmap_neut_diff_free_energy>
+-2.039
+
+> <szmap_vdw>
+3.249
+
+> <szmap_order>
+0.579
+
+> <szmap_probability>
+0.088
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -19.7440   -5.9425  -32.7711 O   0  0  0  0  0  0
+  -19.1143   -5.4050  -33.2516 H   0  0  0  0  0  0
+  -19.2654   -6.2383  -31.9967 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1081
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.133
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+133
+
+> <szmap_neut_diff_free_energy>
+-2.039
+
+> <szmap_vdw>
+3.249
+
+> <szmap_order>
+0.579
+
+> <szmap_probability>
+0.085
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -31.2440  -10.4425  -33.7711 O   0  0  0  0  0  0
+  -30.7065  -10.9230  -33.1414 H   0  0  0  0  0  0
+  -31.5398   -9.6681  -33.2925 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1082
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.134
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+134
+
+> <szmap_neut_diff_free_energy>
+-2.012
+
+> <szmap_vdw>
+2.156
+
+> <szmap_order>
+0.545
+
+> <szmap_probability>
+0.205
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -31.2440  -10.4425  -33.7711 O   0  0  0  0  0  0
+  -31.3362   -9.5728  -33.3820 H   0  0  0  0  0  0
+  -32.0184  -10.9211  -33.4753 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1083
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.135
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+135
+
+> <szmap_neut_diff_free_energy>
+-2.012
+
+> <szmap_vdw>
+2.156
+
+> <szmap_order>
+0.545
+
+> <szmap_probability>
+0.134
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -31.2440  -10.4425  -33.7711 O   0  0  0  0  0  0
+  -31.6332  -10.3503  -34.6408 H   0  0  0  0  0  0
+  -31.5398   -9.6681  -33.2925 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1084
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.136
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+136
+
+> <szmap_neut_diff_free_energy>
+-2.012
+
+> <szmap_vdw>
+2.156
+
+> <szmap_order>
+0.545
+
+> <szmap_probability>
+0.131
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -31.2440  -10.4425  -33.7711 O   0  0  0  0  0  0
+  -31.7245   -9.8128  -33.2336 H   0  0  0  0  0  0
+  -30.4696   -9.9639  -34.0669 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1085
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.137
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+137
+
+> <szmap_neut_diff_free_energy>
+-2.012
+
+> <szmap_vdw>
+2.156
+
+> <szmap_order>
+0.545
+
+> <szmap_probability>
+0.108
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -18.7440   -6.9425  -33.7711 O   0  0  0  0  0  0
+  -19.6137   -6.5533  -33.6789 H   0  0  0  0  0  0
+  -18.2654   -6.6467  -32.9967 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1086
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.138
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+138
+
+> <szmap_neut_diff_free_energy>
+-1.983
+
+> <szmap_vdw>
+2.984
+
+> <szmap_order>
+0.644
+
+> <szmap_probability>
+0.223
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -18.7440   -6.9425  -33.7711 O   0  0  0  0  0  0
+  -18.2065   -6.4620  -33.1414 H   0  0  0  0  0  0
+  -19.0398   -7.7169  -33.2925 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1087
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.139
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+139
+
+> <szmap_neut_diff_free_energy>
+-1.983
+
+> <szmap_vdw>
+2.984
+
+> <szmap_order>
+0.644
+
+> <szmap_probability>
+0.161
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -18.7440   -6.9425  -33.7711 O   0  0  0  0  0  0
+  -18.3548   -6.8503  -32.9015 H   0  0  0  0  0  0
+  -18.4482   -6.1681  -34.2497 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1088
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.140
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+140
+
+> <szmap_neut_diff_free_energy>
+-1.983
+
+> <szmap_vdw>
+2.984
+
+> <szmap_order>
+0.644
+
+> <szmap_probability>
+0.139
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -24.2440   -3.4425  -21.2711 O   0  0  0  0  0  0
+  -24.3362   -4.3122  -20.8820 H   0  0  0  0  0  0
+  -25.0184   -2.9639  -20.9753 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1089
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.141
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+141
+
+> <szmap_neut_diff_free_energy>
+-1.897
+
+> <szmap_vdw>
+2.512
+
+> <szmap_order>
+0.55
+
+> <szmap_probability>
+0.146
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -24.2440   -3.4425  -21.2711 O   0  0  0  0  0  0
+  -24.8737   -3.9800  -21.7516 H   0  0  0  0  0  0
+  -24.7226   -3.1467  -20.4967 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1090
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.142
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+142
+
+> <szmap_neut_diff_free_energy>
+-1.897
+
+> <szmap_vdw>
+2.512
+
+> <szmap_order>
+0.55
+
+> <szmap_probability>
+0.142
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -24.2440   -3.4425  -21.2711 O   0  0  0  0  0  0
+  -24.8737   -2.9050  -20.7906 H   0  0  0  0  0  0
+  -24.7226   -3.7383  -22.0455 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1091
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.143
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+143
+
+> <szmap_neut_diff_free_energy>
+-1.897
+
+> <szmap_vdw>
+2.512
+
+> <szmap_order>
+0.55
+
+> <szmap_probability>
+0.127
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -24.2440   -3.4425  -21.2711 O   0  0  0  0  0  0
+  -24.7815   -2.9620  -20.6414 H   0  0  0  0  0  0
+  -23.9482   -4.2169  -20.7925 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1092
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.144
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+144
+
+> <szmap_neut_diff_free_energy>
+-1.897
+
+> <szmap_vdw>
+2.512
+
+> <szmap_order>
+0.55
+
+> <szmap_probability>
+0.114
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -25.2440   -9.4425  -38.7711 O   0  0  0  0  0  0
+  -25.2440   -8.5159  -38.5311 H   0  0  0  0  0  0
+  -25.2440   -9.4425  -39.7283 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1093
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.145
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+145
+
+> <szmap_neut_diff_free_energy>
+-1.544
+
+> <szmap_vdw>
+0.737
+
+> <szmap_order>
+0.534
+
+> <szmap_probability>
+0.251
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -25.2440   -9.4425  -38.7711 O   0  0  0  0  0  0
+  -25.3362   -8.5728  -38.3820 H   0  0  0  0  0  0
+  -26.0184   -9.9211  -38.4753 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1094
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.146
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+146
+
+> <szmap_neut_diff_free_energy>
+-1.544
+
+> <szmap_vdw>
+0.737
+
+> <szmap_order>
+0.534
+
+> <szmap_probability>
+0.242
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+water
+                    3D
+ Structure written by MMmdl.
+  3  2  0  0  1  0            999 V2000
+  -25.2440   -9.4425  -38.7711 O   0  0  0  0  0  0
+  -25.6332   -9.3503  -39.6408 H   0  0  0  0  0  0
+  -25.5398   -8.6681  -38.2925 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+M  END
+> <s_m_entry_id>
+1095
+
+> <s_m_entry_name>
+SZMAP_Mpro_7E5X_chain_B.147
+
+> <s_m_Source_Path>
+C:\Users\ifige\Documents\lab_projects\Mpro\szmap\7E5X_chainB\SZMAP_7E5X_chain_B
+
+> <s_m_Source_File>
+SZMAP_Mpro_7E5X_chain_B.mae
+
+> <i_m_Source_File_Index>
+147
+
+> <szmap_neut_diff_free_energy>
+-1.544
+
+> <szmap_vdw>
+0.737
+
+> <szmap_order>
+0.534
+
+> <szmap_probability>
+0.16
+
+> <s_m_subgroupid>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B1->Yellow_waters
+
+> <s_m_subgroup_title>
+SZMAP_Mpro_7E5X_chain_B->SZMAP_Mpro_7E5X_chain_B->Yellow_waters
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
