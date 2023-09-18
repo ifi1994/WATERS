@@ -1,0 +1,246 @@
+Compound_4-7L10
+                    3D
+ Structure written by MMmdl.
+ 42 45  0  0  1  0            999 V2000
+    6.0145   -0.2571   25.9009 C   0  0  0  0  0  0
+    6.7376    0.1121   24.7682 C   0  0  0  0  0  0
+    8.2569   -0.4105   22.8408 C   0  0  0  0  0  0
+    7.4263   -2.1745   24.4619 C   0  0  0  0  0  0
+    9.0080    0.7224   22.9143 C   0  0  0  0  0  0
+    8.8264   -1.2830   19.2652 C   0  0  0  0  0  0
+   10.6830    2.4077   21.9109 C   0  0  0  0  0  0
+    9.9291   -2.0313   18.8326 C   0  0  0  0  0  0
+    9.8539   -2.7291   17.6251 C   0  0  0  0  0  0
+    8.6780   -2.6477   16.8793 C   0  0  0  0  0  0
+    7.6858   -1.2513   18.4524 C   0  0  0  0  0  0
+    9.7643    1.2354   21.7760 C   0  0  0  0  0  0
+   10.8587    3.4218   20.9380 C   0  0  0  0  0  0
+   11.8078    4.4331   21.1363 C   0  0  0  0  0  0
+   12.5757    4.4672   22.2960 C   0  0  0  0  0  0
+   12.3793    3.5095   23.2826 C   0  0  0  0  0  0
+   11.4434    2.4955   23.0898 C   0  0  0  0  0  0
+   10.0427    3.5172   19.7345 C   0  0  0  0  0  0
+    5.9994   -1.5852   26.3174 C   0  0  0  0  0  0
+    7.4581   -0.8382   24.0281 C   0  0  0  0  0  0
+    6.6968   -2.5480   25.5915 C   0  0  0  0  0  0
+    8.1809   -1.1818   21.5822 C   0  0  0  0  0  0
+    9.6133    0.5165   20.6405 C   0  0  0  0  0  0
+    8.8437   -0.6218   20.5091 N   0  0  0  0  0  0
+    7.6035   -1.9194   17.2731 N   0  0  0  0  0  0
+    9.3960    3.5901   18.7805 N   0  0  0  0  0  0
+    7.5699   -2.2511   21.4966 O   0  0  0  0  0  0
+    5.1393    0.9335   26.7849 Cl  0  0  0  0  0  0
+    6.6476   -4.2000   26.0879 Cl  0  0  0  0  0  0
+    6.7294    1.1475   24.4600 H   0  0  0  0  0  0
+    7.9764   -2.9350   23.9265 H   0  0  0  0  0  0
+    9.0234    1.2863   23.8362 H   0  0  0  0  0  0
+   10.8179   -2.0994   19.4434 H   0  0  0  0  0  0
+   10.6805   -3.3306   17.2797 H   0  0  0  0  0  0
+    8.5821   -3.1830   15.9469 H   0  0  0  0  0  0
+    6.8052   -0.7040   18.7566 H   0  0  0  0  0  0
+   11.9570    5.2079   20.3973 H   0  0  0  0  0  0
+   13.3050    5.2517   22.4414 H   0  0  0  0  0  0
+   12.9637    3.5413   24.1901 H   0  0  0  0  0  0
+   11.3415    1.7490   23.8629 H   0  0  0  0  0  0
+    5.4323   -1.8716   27.1906 H   0  0  0  0  0  0
+   10.1322    0.7610   19.7244 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 19  2  0  0  0
+  1 28  1  0  0  0
+  2 20  2  0  0  0
+  2 30  1  0  0  0
+  3  5  2  0  0  0
+  3 20  1  0  0  0
+  3 22  1  0  0  0
+  4 20  1  0  0  0
+  4 21  2  0  0  0
+  4 31  1  0  0  0
+  5 12  1  0  0  0
+  5 32  1  0  0  0
+  6  8  1  0  0  0
+  6 11  2  0  0  0
+  6 24  1  0  0  0
+  7 12  1  0  0  0
+  7 13  1  0  0  0
+  7 17  2  0  0  0
+  8  9  2  0  0  0
+  8 33  1  0  0  0
+  9 10  1  0  0  0
+  9 34  1  0  0  0
+ 10 25  2  0  0  0
+ 10 35  1  0  0  0
+ 11 25  1  0  0  0
+ 11 36  1  0  0  0
+ 12 23  2  0  0  0
+ 13 14  2  0  0  0
+ 13 18  1  0  0  0
+ 14 15  1  0  0  0
+ 14 37  1  0  0  0
+ 15 16  2  0  0  0
+ 15 38  1  0  0  0
+ 16 17  1  0  0  0
+ 16 39  1  0  0  0
+ 17 40  1  0  0  0
+ 18 26  3  0  0  0
+ 19 21  1  0  0  0
+ 19 41  1  0  0  0
+ 21 29  1  0  0  0
+ 22 24  1  0  0  0
+ 22 27  2  0  0  0
+ 23 24  1  0  0  0
+ 23 42  1  0  0  0
+M  END
+> <s_m_entry_id>
+1526
+
+> <s_m_entry_name>
+7l10.1_ligand
+
+> <s_m_Source_Path>
+/home/iakrani/Data_2/Ifigeneia/Mpro_water_data/Perampanel_analogue_structures
+
+> <s_m_Source_File>
+7l10_minimized.mae
+
+> <i_m_Source_File_Index>
+1
+
+> <s_pdb_PDB_TITLE>
+CRYSTAL STRUCTURE OF THE SARS-COV-2 (2019-NCOV) MAIN PROTEASE IN COMPLEX WITH COMPOUND 4
+
+> <s_pdb_PDB_ID>
+7L10
+
+> <r_pdb_PDB_CRYST1_a>
+97.22
+
+> <r_pdb_PDB_CRYST1_b>
+80.869
+
+> <r_pdb_PDB_CRYST1_c>
+54.51
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+116.64
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+C 1 2 1
+
+> <i_pdb_PDB_CRYST1_z>
+4
+
+> <s_pdb_PDB_CLASSIFICATION>
+VIRAL PROTEIN, HYDROLASE
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+13-DEC-20
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.224000006914139
+
+> <r_pdb_PDB_Rfree>
+0.250999987125397
+
+> <r_pdb_PDB_RESOLUTION>
+1.63
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transformation_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_ppw_entry_id_backup>
+47
+
+> <b_ppw_prepared>
+1
+
+> <s_ppw_prepared_with_version>
+2018-1
+
+> <b_ppw_assigned_bond_orders>
+1
+
+> <b_ppw_added_hydrogens>
+1
+
+> <b_ppw_treated_metals>
+1
+
+> <b_ppw_created_disulfur>
+1
+
+> <b_ppw_deleted_far_waters>
+1
+
+> <b_ppw_ran_protassign>
+1
+
+> <b_ppw_removed_non_hbond_waters>
+1
+
+> <r_i_Potential_Energy-OPLS3>
+-1336.18244753213
+
+> <r_i_RMS_Derivative-OPLS3>
+0.142605236669447
+
+> <r_i_Max_Derivative-OPLS3>
+7.67023880477184
+
+> <r_i_Stretch_Energy-OPLS3>
+139.105713234166
+
+> <r_i_Bend_Energy-OPLS3>
+579.863418918167
+
+> <r_i_LJ-14_Energy-OPLS3>
+1410.42895359065
+
+> <r_i_El-14_Energy-OPLS3>
+548.984680280188
+
+> <r_i_Van_der_Waals_Energy-OPLS3>
+-2863.1760283425
+
+> <r_i_Electrostatic_Energy-OPLS3>
+-1615.81490125046
+
+> <r_i_Dihedral_Energy-OPLS3>
+431.190556430611
+
+> <r_i_target_temperature>
+298
+
+> <b_ppw_ran_impref>
+1
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transformation_2>
+-1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 -1.000000   0.000000
+
+> <s_m_subgroup_title>
+Crystallographic_analogues
+
+> <s_m_subgroupid>
+Crystallographic_analogues
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
