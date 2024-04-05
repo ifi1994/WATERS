@@ -3,3 +3,7 @@ bin/
 lib/
 .idea/
 /pyvenv.cfg
+data/.DS_Store
+.DS_Store
+waters/arv7/all_conf/segment_4_input_af_all.pdb
+waters/arv7/all_conf/segment_4_input_af_all.pdb
