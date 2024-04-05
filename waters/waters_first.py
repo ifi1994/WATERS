@@ -22,6 +22,12 @@ water_data = "/Users/pantelispanka/Jaqpot/WATERS/data/Water_data"
 # ligand_data = "/Users/pantelispanka/Jaqpot/WATERS/data/Perampanel_analogue_data/Ligand_data"
 ligand_data = "/Users/pantelispanka/Jaqpot/WATERS/data/Ligand_data"
 
+round_at = 2
+dist_at = 0.6
+
+cutoff_plus = 0
+cutoff_minus = 0
+
 # list to store files
 sdfs = []
 
@@ -143,9 +149,9 @@ for mol in water_mols:
         # x = int(round(positions.x, 1))
         # y = int(round(positions.y, 1))
         # z = int(round(positions.z, 1))
-        x = round(positions.x, 2)
-        y = round(positions.y, 2)
-        z = round(positions.z, 2)
+        x = round(positions.x, round_at)
+        y = round(positions.y, round_at)
+        z = round(positions.z, round_at)
 
 
         # x = abs(int(positions.x) + min_x_int)
@@ -261,10 +267,10 @@ for ind, mol in enumerate(ligand_mols):
             energy = grid[key]['energies']
             std = grid[key]['std']
             dist = distance(atom_x, atom_y, atom_z, grid_x, grid_y, grid_z)
-            if dist < 0.8:
+            if dist < dist_at:
                 if atom_symbol in hydrophilic_atoms:
                     energy_mean = sum(energy) / len(energy)
-                    if -0 > energy_mean > -12:
+                    if cutoff_minus > energy_mean > -12:
                         atom_in = f"{atom_symbol}_in_phil"
                         try:
                             mol_map[mol_sdfs[ind]]['phil_phil'][atom_in].append(1)
@@ -273,7 +279,7 @@ for ind, mol in enumerate(ligand_mols):
                         mol_map[mol_sdfs[ind]]['phil_phil']['atoms'].append(atom_symbol)
                         mol_map[mol_sdfs[ind]]['phil_phil']['grid_energies'].append(energy_mean)
                         mol_map[mol_sdfs[ind]]['phil_phil']['std'].append(std)
-                    if energy_mean > 0:
+                    if energy_mean > cutoff_plus:
                         atom_in = f"{atom_symbol}_in_phob"
                         try:
                             mol_map[mol_sdfs[ind]]['phil_phob'][atom_in].append(1)
@@ -284,7 +290,7 @@ for ind, mol in enumerate(ligand_mols):
                         mol_map[mol_sdfs[ind]]['phil_phob']['std'].append(std)
                 if atom_symbol in hydrophobic_atoms:
                     energy_mean = sum(energy) / len(energy)
-                    if -0 > energy_mean > -12:
+                    if cutoff_minus > energy_mean > -12:
                         atom_in = f"{atom_symbol}_in_phil"
                         try:
                             mol_map[mol_sdfs[ind]]['phob_phil'][atom_in].append(1)
@@ -293,7 +299,7 @@ for ind, mol in enumerate(ligand_mols):
                         mol_map[mol_sdfs[ind]]['phob_phil']['atoms'].append(atom_symbol)
                         mol_map[mol_sdfs[ind]]['phob_phil']['grid_energies'].append(energy_mean)
                         mol_map[mol_sdfs[ind]]['phob_phil']['std'].append(std)
-                    if energy_mean > 0:
+                    if energy_mean > cutoff_plus:
                         atom_in = f"{atom_symbol}_in_phob"
                         try:
                             mol_map[mol_sdfs[ind]]['phob_phob'][atom_in].append(1)
