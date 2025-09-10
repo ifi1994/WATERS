@@ -10,7 +10,7 @@ from minisom import MiniSom
 # You can change these paths if needed
 INPUT_DIR = r"C:\Users\ifige\Documents\GitHub\SZMAP\szmap_unique_waters"
 OUTPUT_DIR = r"C:\Users\ifige\Documents\GitHub\SZMAP\Kohonen_results"
-MIN_CLUSTER_SIZE = 50
+MIN_CLUSTER_SIZE = 250
 
 
 # --- Main Functions ---
@@ -141,7 +141,8 @@ def select_key_waters(water_molecules, cluster_assignments):
     """
     print("Selecting key waters for each cluster...")
 
-    cluster_labels = np.array([(y * 20 + x) for (x, y) in cluster_assignments])
+    som_x, som_y, _ = som.get_weights().shape
+    cluster_labels = np.array([(y * som_x + x) for (x, y) in cluster_assignments])
     unique_clusters = np.unique(cluster_labels)
 
     key_waters = []
@@ -150,51 +151,30 @@ def select_key_waters(water_molecules, cluster_assignments):
         # Get molecules and their data for the current cluster
         cluster_indices = np.where(cluster_labels == cluster_id)[0]
         cluster_mols = [water_molecules[i] for i in cluster_indices]
-        cluster_energies = np.array([mol['free_energy'] for mol in cluster_mols])
-        cluster_probabilities = np.array([mol['probability'] for mol in cluster_mols])
 
-        # Calculate mean energy to determine selection logic
-        mean_energy = np.mean(cluster_energies) if cluster_energies.size > 0 else 0
+        # Use a mask to filter out None values and create a list of valid molecules
+        valid_mols = [mol for mol in cluster_mols if mol['free_energy'] is not None and mol['probability'] is not None]
 
-        selected_mol = None
-
-        # Handle cases where all probabilities or energies are None
-        if all(p is None for p in cluster_probabilities) or all(e is None for e in cluster_energies):
+        if not valid_mols:
             print(f"Cluster {cluster_id} has no valid probability or energy data. Skipping key water selection.")
             continue
 
+        # Find the highest probability in the cluster
+        max_prob = max([mol['probability'] for mol in valid_mols])
+
+        # Find all molecules with this highest probability
+        max_prob_mols = [mol for mol in valid_mols if mol['probability'] == max_prob]
+
+        # Calculate mean energy to determine selection logic
+        mean_energy = np.mean([mol['free_energy'] for mol in valid_mols])
+
+        selected_mol = None
         if mean_energy >= 0:
-            # Positive mean energy: find highest energy and highest probability
-            # Use a mask to filter out None values
-            valid_indices = [i for i, (e, p) in enumerate(zip(cluster_energies, cluster_probabilities)) if
-                             e is not None and p is not None]
-
-            if not valid_indices:
-                continue
-
-            max_energy_idx = max(valid_indices, key=lambda i: cluster_energies[i])
-            max_prob_mols = [i for i in valid_indices if
-                             cluster_probabilities[i] == cluster_probabilities[max_energy_idx]]
-
-            selected_idx = max(max_prob_mols, key=lambda i: cluster_energies[i]) if len(
-                max_prob_mols) > 1 else max_energy_idx
-            selected_mol = cluster_mols[selected_idx]
-
+            # Positive mean energy: find highest energy among max probability molecules
+            selected_mol = max(max_prob_mols, key=lambda mol: mol['free_energy'])
         else:
-            # Negative mean energy: find lowest energy and highest probability
-            valid_indices = [i for i, (e, p) in enumerate(zip(cluster_energies, cluster_probabilities)) if
-                             e is not None and p is not None]
-
-            if not valid_indices:
-                continue
-
-            min_energy_idx = min(valid_indices, key=lambda i: cluster_energies[i])
-            max_prob_mols = [i for i in valid_indices if
-                             cluster_probabilities[i] == cluster_probabilities[min_energy_idx]]
-
-            selected_idx = min(max_prob_mols, key=lambda i: cluster_energies[i]) if len(
-                max_prob_mols) > 1 else min_energy_idx
-            selected_mol = cluster_mols[selected_idx]
+            # Negative mean energy: find lowest energy among max probability molecules
+            selected_mol = min(max_prob_mols, key=lambda mol: mol['free_energy'])
 
         if selected_mol:
             key_waters.append(selected_mol)
@@ -323,12 +303,15 @@ def generate_centroids_sdf(water_molecules, som, cluster_assignments, prefix="")
     sdf_path = os.path.join(OUTPUT_DIR, f"cluster_centroids{prefix}.sdf")
     with open(sdf_path, 'w') as f:
         for centroid in centroids:
+            # Determine atom type based on mean free energy
+            atom_type = 'O' if centroid['mean_free_energy'] < 0 else 'C'
+
             f.write(f"{centroid['id']}\n")
             f.write("\n")
             f.write("\n")
             f.write("  1  0  0  0  0  0  0  0  0  0999 V2000\n")
             f.write(
-                f"{centroid['coords'][0]:10.4f}{centroid['coords'][1]:10.4f}{centroid['coords'][2]:10.4f} C   0  0  0  0  0  0  0  0  0  0  0  0\n")
+                f"{centroid['coords'][0]:10.4f}{centroid['coords'][1]:10.4f}{centroid['coords'][2]:10.4f} {atom_type:<3s} 0  0  0  0  0  0  0  0  0  0  0  0\n")
             f.write("M  END\n")
             f.write(f"> <mean_free_energy>\n{centroid['mean_free_energy']:.4f}\n")
             f.write("$$$$\n")
@@ -379,7 +362,21 @@ def generate_key_waters_sdf(key_waters, prefix=""):
     sdf_path = os.path.join(OUTPUT_DIR, f"key_waters{prefix}.sdf")
     with open(sdf_path, 'w') as f:
         for mol in key_waters:
-            f.write(mol['block'])
+            # Find the line with the O atom and replace it with C if energy is positive
+            lines = mol['block'].split('\n')
+            new_block_lines = []
+
+            for line in lines:
+                parts = line.split()
+                if len(parts) >= 4 and parts[3].strip() == 'O':
+                    if mol['free_energy'] is not None and mol['free_energy'] >= 0:
+                        parts[3] = 'C'
+                    new_block_lines.append("     " + "     ".join(parts))
+                else:
+                    new_block_lines.append(line)
+
+            modified_block = '\n'.join(new_block_lines)
+            f.write(modified_block)
 
     print(f"Key waters SDF file saved to: {sdf_path}")
 
